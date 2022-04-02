@@ -1,6 +1,22 @@
 <img src="https://user-images.githubusercontent.com/7886233/159105830-45f6da54-4603-4923-a533-9fd90aa35a3e.png" />
  
 ## Rongjun Geng here!
+
+I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/full-stack-web-development) graduate who is currently living in San Francisco Bay Area, CA
+
+## Technical Skills
+
+Front End: HTML, CSS, JavaScript, React, Redux, Yup, Cypress, Axios
+
+Back End: Node.js, Express, SQL, SQLiteStudio, PostgreSQL, Git, GitHub, VS Code, Vercel, Heroku, Netlify
+
+
+## Below are the links to my profiles....
+
+- [Porfolio](https://rjgeng.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/rjgeng/)
+
+## More about me....
  
 - 💻    I'm Rongjun GENG, a Full Stack Web Developer, although I was an electronics engineer oversea before.
 - 🔭    I am currently learning **Machine Learning**; and trying to build some projects using Pandas, TensorFlow, Flask and Python.
