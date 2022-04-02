@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 ## Below are the links to my profiles....
 
 - [Porfolio](https://rjgeng.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/rjgeng/)
+- [Leet & Signal](https://rjgeng.github.io/)
 
 ## More about me....
  
