@@ -4,13 +4,6 @@
 
 I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/full-stack-web-development) graduate who is currently living in San Francisco Bay Area, CA
 
-## Technical Skills
-
-Front End: HTML, CSS, JavaScript, React, Redux, Yup, Cypress, Axios
-
-Back End: Node.js, Express, SQL, SQLiteStudio, PostgreSQL, Git, GitHub, VS Code, Vercel, Heroku, Netlify
-
-
 ## Below are the links to my profiles....
 
 - [Porfolio](https://rjgeng.github.io/)
