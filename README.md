@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 
 - [Porfolio](https://rjgeng.github.io) 
 - [Resume](https://rjgeng.github.io/resume/)
-- [Code Interview](https://rjgeng.github.io/resume/)
+- [Code Interview](https://rjgeng.github.io/leet-code/)
 
 ## More about me....
  
