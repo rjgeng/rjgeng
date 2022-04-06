@@ -34,9 +34,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://jwt.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105892-cd6b08a1-2b63-4f17-9e07-9debe005ac3a.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
-<a href="https://beautifuljekyll.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159178273-15525249-0255-40fd-90d1-3ac6264701f2.png" width="55" height="55"/></a>
-
- 
+<a href="https://beautifuljekyll.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159178273-15525249-0255-40fd-90d1-3ac6264701f2.png" width="55" height="55"/></a> 
 <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106021-d762858f-04a8-487e-9703-72b9eb00e058.png" height="60"/></a>
 <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106024-cbdbe521-bf6e-484f-9a69-f3bc719883eb.png" height="60"/></a>
 <a href="https://www.gnuradio.org" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159179948-d77632f5-729a-4e1e-95b0-bb7b05403a72.png" width="45" height="45"/></a>
