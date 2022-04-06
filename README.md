@@ -35,15 +35,8 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
 <a href="https://beautifuljekyll.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159178273-15525249-0255-40fd-90d1-3ac6264701f2.png" width="55" height="55"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108792-a12ab940-dc4a-4643-9dc4-736619bd68a3.png" width="55" height="55"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106017-7f5d5c2e-7f33-41d4-992d-a9d1ac00214c.png" width="55" height="55"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="55"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a>
+
+ 
 <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106021-d762858f-04a8-487e-9703-72b9eb00e058.png" height="60"/></a>
 <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106024-cbdbe521-bf6e-484f-9a69-f3bc719883eb.png" height="60"/></a>
 <a href="https://www.gnuradio.org" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159179948-d77632f5-729a-4e1e-95b0-bb7b05403a72.png" width="45" height="45"/></a>
@@ -55,7 +48,17 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7886233/159177980-71eb16de-501b-4e5b-a09e-2e0de9082639.png" alt="linux" width="55" height="55"/> </a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
-<!-- <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
+<!-- 
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108792-a12ab940-dc4a-4643-9dc4-736619bd68a3.png" width="55" height="55"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106017-7f5d5c2e-7f33-41d4-992d-a9d1ac00214c.png" width="55" height="55"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="55"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> </a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159185250-65b3057e-2296-468f-a01d-f446068752eb.png" width="60" height="60"/></a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a>
