@@ -43,8 +43,6 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://kb.ettus.com/RFNoC_(UHD_3.0)" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130269-ff6e26a5-3a7a-4d31-a635-09c0a6bdc982.png" height="55"/></a>
 <a href="https://www.xilinx.com/developer/products/vitis.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159129381-41cefc6c-40f8-45e9-bc66-90d9f8b02987.png"  width="50" height="55"/></a>
 <a href="https://aws.amazon.com/freertos/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159129719-d335d4a9-f42b-4bb3-9b58-3e52bbb6d3d2.png"  width="50" height="55"/></a>
-<a href="https://code.visualstudio.com/brand" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105877-f44b6d41-f878-4bb2-beff-d566980bbeb0.png"  width="50" height="50"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
 
 <!-- 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108792-a12ab940-dc4a-4643-9dc4-736619bd68a3.png" width="55" height="55"/></a>
@@ -62,6 +60,8 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7886233/159177980-71eb16de-501b-4e5b-a09e-2e0de9082639.png" alt="linux" width="55" height="55"/> </a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
+<a href="https://code.visualstudio.com/brand" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105877-f44b6d41-f878-4bb2-beff-d566980bbeb0.png"  width="50" height="50"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
 
 -->
  
