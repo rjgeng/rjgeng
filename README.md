@@ -36,6 +36,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
 <a href="https://beautifuljekyll.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159178273-15525249-0255-40fd-90d1-3ac6264701f2.png" width="55" height="55"/></a> 
 <a href="https://vino.dev/blog/node-to-rust-day-1-rustup/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636498-33e1329c-70f1-4ba5-a721-c511181cd204.png" height="60"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636813-1e0bc7e2-2e26-4bc3-88bc-f6610794e994.png" height="60"/></a> 
 <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106021-d762858f-04a8-487e-9703-72b9eb00e058.png" height="60"/></a>
 <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106024-cbdbe521-bf6e-484f-9a69-f3bc719883eb.png" height="60"/></a>
 <a href="https://www.gnuradio.org" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159179948-d77632f5-729a-4e1e-95b0-bb7b05403a72.png" width="45" height="45"/></a>
