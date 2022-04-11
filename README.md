@@ -30,7 +30,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105880-bc29ffc4-0323-4167-839d-97c046e5f60f.png" height="60"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130782-3f7e4131-d834-403a-a4e0-4462ebec58c3.png"   width="55" height="55"/></a>
-<a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105886-114e32b4-199d-493b-b55f-66fdbe694ff2.png" width="65" height="60"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652689-50527027-d319-43f4-8934-713c103b6a4d.png" width="60" height="60"/></a>
 <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105887-865cf05f-b81d-427e-93e6-98946b51d71b.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
