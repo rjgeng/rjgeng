@@ -20,7 +20,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 ## Languages & Tools 🛠
  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162657213-0c44307c-d4df-4220-9d3c-46e00380c451.png" width="60" height="60"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108112-ec6b9da8-1100-417c-8447-b53538572131.png"  width="60" height="60"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162658828-2571ac65-4429-4c02-8c56-72988c50f8c9.png"  width="60" height="60"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108315-34de1842-5281-4381-bbca-935546c9de48.png" width="60" height="60"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="60" height="60"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="60" height="60"></a>
