@@ -19,17 +19,17 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
  
 ## Languages & Tools 🛠
  
-<a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108099-b615b871-48f6-4afe-abf7-8b5b93a1f41f.png" width="55" height="55"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108099-b615b871-48f6-4afe-abf7-8b5b93a1f41f.png" width="60" height="60"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655765-2ed11b14-6bdb-400b-aefc-cfb324730ba6.png" height="60"/>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655230-154a283a-813d-414d-8095-eaa50887fd03.png" height="60"/>
-<a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108112-ec6b9da8-1100-417c-8447-b53538572131.png"  width="55" height="55"/></a>
-<a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108315-34de1842-5281-4381-bbca-935546c9de48.png" width="55" height="55"/></a>
-<a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="55" height="55"/></a>
-<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="55" height="55"></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108112-ec6b9da8-1100-417c-8447-b53538572131.png"  width="60" height="60"/></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108315-34de1842-5281-4381-bbca-935546c9de48.png" width="60" height="60"/></a>
+<a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="60" height="60"/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="60" height="60"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162654231-c83b81ee-9a52-4386-91ef-8e09e15d9690.png"  width="60" height="60"/></a>
 <a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105880-bc29ffc4-0323-4167-839d-97c046e5f60f.png" height="60"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130782-3f7e4131-d834-403a-a4e0-4462ebec58c3.png"   width="55" height="55"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130782-3f7e4131-d834-403a-a4e0-4462ebec58c3.png"   width="60" height="60"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652689-50527027-d319-43f4-8934-713c103b6a4d.png" width="60" height="60"/></a>
 <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105887-865cf05f-b81d-427e-93e6-98946b51d71b.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
