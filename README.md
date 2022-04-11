@@ -11,7 +11,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 ## More about me....
  
 - 💻    I'm Rongjun GENG, a Full Stack Web Developer, although I was an electronics engineer oversea before.
-- 🔭    I am playing with Rust and WebAssembly (abbreviated Wasm) try to extend the obsoleted C++, C and Assemble skills.
+- 🔭    I am playing with Rust and WebAssembly (abbreviated Wasm) try to extend the obsoleted C++, C and Assembly skills.
 - 🌱    I am currently learning **Machine Learning**; and trying to build some projects using Pandas, TensorFlow, Flask and Python.
 - 🔬    Interested in most fields, ping me if you want to collaborate.
 - 🔗    Connect with me on <a href="https://www.linkedin.com/in/rjgeng/" target="_blank">LinkedIn</a>
