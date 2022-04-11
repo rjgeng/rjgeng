@@ -21,7 +21,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108099-b615b871-48f6-4afe-abf7-8b5b93a1f41f.png" width="55" height="55"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105836-93677a17-6857-4935-bf48-776fa9a8e157.png" height="60"/>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105838-e694332a-101e-4c71-8c63-e7e86e49c460.png" height="60"/>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655230-154a283a-813d-414d-8095-eaa50887fd03.png" height="60"/>
 <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108112-ec6b9da8-1100-417c-8447-b53538572131.png"  width="55" height="55"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108315-34de1842-5281-4381-bbca-935546c9de48.png" width="55" height="55"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="55" height="55"/></a>
