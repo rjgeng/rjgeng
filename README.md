@@ -26,7 +26,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108315-34de1842-5281-4381-bbca-935546c9de48.png" width="55" height="55"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="55" height="55"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="55" height="55"></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105866-67306f22-f2f1-41a1-b362-c4fcb2091cc1.png"  width="55" height="55"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162654231-c83b81ee-9a52-4386-91ef-8e09e15d9690.png"  width="60" height="60"/></a>
 <a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105880-bc29ffc4-0323-4167-839d-97c046e5f60f.png" height="60"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130782-3f7e4131-d834-403a-a4e0-4462ebec58c3.png"   width="55" height="55"/></a>
