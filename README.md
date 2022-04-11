@@ -32,7 +32,6 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130782-3f7e4131-d834-403a-a4e0-4462ebec58c3.png"   width="55" height="55"/></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105886-114e32b4-199d-493b-b55f-66fdbe694ff2.png" width="65" height="60"/></a>
 <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105887-865cf05f-b81d-427e-93e6-98946b51d71b.png" height="60"/></a>
-<a href="https://jwt.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105892-cd6b08a1-2b63-4f17-9e07-9debe005ac3a.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
 <a href="https://beautifuljekyll.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159178273-15525249-0255-40fd-90d1-3ac6264701f2.png" width="55" height="55"/></a>
@@ -58,6 +57,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="60" height="60"/> </a>
+<a href="https://jwt.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105892-cd6b08a1-2b63-4f17-9e07-9debe005ac3a.png" height="60"/></a>
 <a href="https://www.postman.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159185250-65b3057e-2296-468f-a01d-f446068752eb.png" width="60" height="60"/></a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/7886233/159177980-71eb16de-501b-4e5b-a09e-2e0de9082639.png" alt="linux" width="55" height="55"/> </a>
