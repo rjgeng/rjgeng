@@ -40,7 +40,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.tutorialspoint.com/webassembly/index.htm" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636813-1e0bc7e2-2e26-4bc3-88bc-f6610794e994.png" height="60"/></a> 
 <a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106021-d762858f-04a8-487e-9703-72b9eb00e058.png" width="65" height="65"/></a>
 <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106024-cbdbe521-bf6e-484f-9a69-f3bc719883eb.png" width="60" height="60"/></a>
-<a href="https://www.gnuradio.org" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162651954-ad60075d-5fb2-4ce4-aec6-1d3c739ebc34.png" width="45" height="45"/></a>
+<a href="https://www.gnuradio.org" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162651954-ad60075d-5fb2-4ce4-aec6-1d3c739ebc34.png" width="60" height="60"/></a>
 <a href="https://kb.ettus.com/RFNoC_(UHD_3.0)" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130269-ff6e26a5-3a7a-4d31-a635-09c0a6bdc982.png" height="55"/></a>
 <a href="https://www.xilinx.com/developer/products/vitis.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159129381-41cefc6c-40f8-45e9-bc66-90d9f8b02987.png"  width="50" height="55"/></a>
 <a href="https://aws.amazon.com/freertos/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159129719-d335d4a9-f42b-4bb3-9b58-3e52bbb6d3d2.png"  width="50" height="55"/></a>
