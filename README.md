@@ -22,13 +22,13 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162657213-0c44307c-d4df-4220-9d3c-46e00380c451.png" width="60" height="60"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162658828-2571ac65-4429-4c02-8c56-72988c50f8c9.png"  width="60" height="60"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108315-34de1842-5281-4381-bbca-935546c9de48.png" width="60" height="60"/></a>
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162661655-a2593f8a-b295-4379-a39c-7ad864f0fd5d.png" height="60"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162661362-fd09b820-a471-4a20-826d-82da615a3cd2.png"   width="60" height="60"/></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652689-50527027-d319-43f4-8934-713c103b6a4d.png" width="60" height="60"/></a>
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="60" height="60"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="60" height="60"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162654231-c83b81ee-9a52-4386-91ef-8e09e15d9690.png"  width="60" height="60"/></a>
 <a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105880-bc29ffc4-0323-4167-839d-97c046e5f60f.png" height="60"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162661362-fd09b820-a471-4a20-826d-82da615a3cd2.png"   width="60" height="60"/></a>
-<a href="https://www.cypress.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652689-50527027-d319-43f4-8934-713c103b6a4d.png" width="60" height="60"/></a>
 <a href="https://jestjs.io/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105887-865cf05f-b81d-427e-93e6-98946b51d71b.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
