@@ -38,8 +38,8 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.liaoxuefeng.com/wiki/1016959663602400" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106017-7f5d5c2e-7f33-41d4-992d-a9d1ac00214c.png" width="60" height="55"/></a>
 <a href="https://vino.dev/blog/node-to-rust-day-1-rustup/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636498-33e1329c-70f1-4ba5-a721-c511181cd204.png" height="60"/></a>
 <a href="https://www.tutorialspoint.com/webassembly/index.htm" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636813-1e0bc7e2-2e26-4bc3-88bc-f6610794e994.png" height="60"/></a> 
-<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106021-d762858f-04a8-487e-9703-72b9eb00e058.png" height="60"/></a>
-<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106024-cbdbe521-bf6e-484f-9a69-f3bc719883eb.png" width="65" height="65"/></a>
+<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106021-d762858f-04a8-487e-9703-72b9eb00e058.png" width="65" height="65"/></a>
+<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106024-cbdbe521-bf6e-484f-9a69-f3bc719883eb.png" width="60" height="60"/></a>
 <a href="https://www.gnuradio.org" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159179948-d77632f5-729a-4e1e-95b0-bb7b05403a72.png" width="45" height="45"/></a>
 <a href="https://kb.ettus.com/RFNoC_(UHD_3.0)" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159130269-ff6e26a5-3a7a-4d31-a635-09c0a6bdc982.png" height="55"/></a>
 <a href="https://www.xilinx.com/developer/products/vitis.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159129381-41cefc6c-40f8-45e9-bc66-90d9f8b02987.png"  width="50" height="55"/></a>
