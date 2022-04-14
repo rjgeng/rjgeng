@@ -43,7 +43,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://digilent.com/reference/vivado/getting_started/start" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163452391-19d5d86e-b348-434c-86c5-a5de9cd6c418.png"  width="55" height="55"/></a>
 <a href="https://www.xilinx.com/developer/products/vitis.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652951-b3f909b4-a79a-462e-8624-c996abb4edb3.png"  width="50" height="55"/></a>
 <a href="https://circuitdigest.com/tutorial/getting-started-with-simulink-in-matlab" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163455880-359a7ee0-4d41-4dc3-9610-c263030b1237.png" width="55" height="55"/></a>
-<a href="https://openairinterface.org/getting-started/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163457599-db37635c-85fb-4d8a-81f8-7a71e2c0ce09.png" width="60" height="60"/></a>
+<a href="https://openairinterface.org/getting-started/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163457599-db37635c-85fb-4d8a-81f8-7a71e2c0ce09.png" width="55" height="60"/></a>
 <a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
 
