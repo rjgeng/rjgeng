@@ -40,8 +40,8 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163406816-9e208b46-43d5-4f75-aea6-ddf22e995956.jpeg" width="60" height="60"/></a>
 <a href="https://www.gnuradio.org" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162651954-ad60075d-5fb2-4ce4-aec6-1d3c739ebc34.png" width="60" height="60"/></a>
 <a href="https://kb.ettus.com/RFNoC_(UHD_3.0)" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652344-4e264365-8824-4ab0-9927-49de79bb9030.png" width="60" height="60"/></a>
+<a href="https://digilent.com/reference/vivado/getting_started/start" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163452391-19d5d86e-b348-434c-86c5-a5de9cd6c418.png"  width="60" height="60"/></a>
 <a href="https://www.xilinx.com/developer/products/vitis.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652951-b3f909b4-a79a-462e-8624-c996abb4edb3.png"  width="50" height="55"/></a>
-<a href="https://aws.amazon.com/freertos/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163452391-19d5d86e-b348-434c-86c5-a5de9cd6c418.png"  width="60" height="60"/></a>
 <a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
 
