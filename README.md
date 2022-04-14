@@ -50,6 +50,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655765-2ed11b14-6bdb-400b-aefc-cfb324730ba6.png" height="60"/>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655230-154a283a-813d-414d-8095-eaa50887fd03.png" height="60"/>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108792-a12ab940-dc4a-4643-9dc4-736619bd68a3.png" width="55" height="55"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108792-a12ab940-dc4a-4643-9dc4-736619bd68a3.png" width="55" height="55"/></a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="55"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>
