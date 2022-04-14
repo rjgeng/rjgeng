@@ -41,6 +41,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.gnuradio.org" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162651954-ad60075d-5fb2-4ce4-aec6-1d3c739ebc34.png" width="60" height="60"/></a>
 <a href="https://kb.ettus.com/RFNoC_(UHD_3.0)" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652344-4e264365-8824-4ab0-9927-49de79bb9030.png" width="60" height="60"/></a>
 <a href="https://www.xilinx.com/developer/products/vitis.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652951-b3f909b4-a79a-462e-8624-c996abb4edb3.png"  width="50" height="55"/></a>
+<a href="https://aws.amazon.com/freertos/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163452391-19d5d86e-b348-434c-86c5-a5de9cd6c418.png"  width="60" height="60"/></a>
 <a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
 
@@ -67,6 +68,6 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 <a href="https://code.visualstudio.com/brand" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105877-f44b6d41-f878-4bb2-beff-d566980bbeb0.png"  width="50" height="50"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
-<a href="https://aws.amazon.com/freertos/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159129719-d335d4a9-f42b-4bb3-9b58-3e52bbb6d3d2.png"  width="50" height="55"/></a>
+
 -->
  
