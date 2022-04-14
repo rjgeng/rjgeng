@@ -32,6 +32,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
+<a href="https://web3js.readthedocs.io/en/v1.2.11/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
 <a href="https://www.liaoxuefeng.com/wiki/1016959663602400" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162653422-14f1dbea-ef4e-4176-b70f-d560a004aa42.png" width="60" height="60"/></a>
 <a href="https://vino.dev/blog/node-to-rust-day-1-rustup/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636498-33e1329c-70f1-4ba5-a721-c511181cd204.png" height="60"/></a>
 <a href="https://solana.com/developers" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163418021-7e9d5163-7a05-42af-8703-512b175e2491.png" height="60"/></a>
@@ -44,7 +45,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 
 
 <!-- 
-<a href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106021-d762858f-04a8-487e-9703-72b9eb00e058.png" width="65" height="65"/></a>
+<a href="https://web3js.readthedocs.io/en/v1.2.11/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655765-2ed11b14-6bdb-400b-aefc-cfb324730ba6.png" height="60"/>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655230-154a283a-813d-414d-8095-eaa50887fd03.png" height="60"/>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108792-a12ab940-dc4a-4643-9dc4-736619bd68a3.png" width="55" height="55"/></a>
