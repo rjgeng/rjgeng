@@ -42,10 +42,12 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://kb.ettus.com/RFNoC_(UHD_3.0)" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652344-4e264365-8824-4ab0-9927-49de79bb9030.png" width="60" height="60"/></a>
 <a href="https://digilent.com/reference/vivado/getting_started/start" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163452391-19d5d86e-b348-434c-86c5-a5de9cd6c418.png"  width="55" height="55"/></a>
 <a href="https://www.xilinx.com/developer/products/vitis.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162652951-b3f909b4-a79a-462e-8624-c996abb4edb3.png"  width="50" height="55"/></a>
+<a href="https://circuitdigest.com/tutorial/getting-started-with-simulink-in-matlab" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163454077-852880af-4180-4332-b755-1b0265f7d81c.png" height="60"/></a>
 <a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
 
 <!-- 
+
 <a href="https://web3js.readthedocs.io/en/v1.2.11/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655765-2ed11b14-6bdb-400b-aefc-cfb324730ba6.png" height="60"/>
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162655230-154a283a-813d-414d-8095-eaa50887fd03.png" height="60"/>
