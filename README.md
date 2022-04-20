@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 
 ## Below are the links to my profiles....
 
-- [Portfolio](https://rjgeng.github.io)
+- [Portfolio - under constructure](https://rjgeng.github.io)
 - [Algorithms - Review](https://rjgeng.github.io/algorithms)
 
 ## More about me....
