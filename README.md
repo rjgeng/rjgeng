@@ -35,6 +35,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
 <a href="https://www.zhihu.com/question/499696887" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
 <a href="https://docs.python.org/3.9/tutorial/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162653422-14f1dbea-ef4e-4176-b70f-d560a004aa42.png" width="60" height="60"/></a>
+<a href="https://go.dev/doc/tutorial/getting-started" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/164744676-2e467461-292f-46d2-a798-870154f24aa1.jpeg" height="60"/></a>
 <a href="https://vino.dev/blog/node-to-rust-day-1-rustup/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636498-33e1329c-70f1-4ba5-a721-c511181cd204.png" height="60"/></a>
 <a href="https://solana.com/developers" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163418021-7e9d5163-7a05-42af-8703-512b175e2491.png" height="60"/></a>
 <a href="https://www.tutorialspoint.com/webassembly/index.htm" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162636813-1e0bc7e2-2e26-4bc3-88bc-f6610794e994.png" height="60"/></a>
