@@ -51,7 +51,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 
 <!-- 
 
-<a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167034708-8c2e2ac5-44dd-485c-9f67-c285d95f03d3.jpeg" height="60"/></a>
+<a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
 
 
 
