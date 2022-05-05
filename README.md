@@ -46,15 +46,11 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://circuitdigest.com/tutorial/getting-started-with-simulink-in-matlab" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163455880-359a7ee0-4d41-4dc3-9610-c263030b1237.png" width="55" height="55"/></a>
 <a href="https://openairinterface.org/getting-started/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163457599-db37635c-85fb-4d8a-81f8-7a71e2c0ce09.png" width="55" height="65"/></a>
 <a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
-<a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167034708-8c2e2ac5-44dd-485c-9f67-c285d95f03d3.jpeg" height="60"/></a>
 
 
 <!-- 
-
+<a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167034708-8c2e2ac5-44dd-485c-9f67-c285d95f03d3.jpeg" height="60"/></a>
 <a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
-
-
-
 
 <a href="https://redux.js.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159108315-34de1842-5281-4381-bbca-935546c9de48.png" width="60" height="60"/></a>
 <a href="https://web3js.readthedocs.io/en/v1.2.11/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
