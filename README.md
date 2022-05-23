@@ -7,13 +7,13 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 ## Below are the links to my profiles....
 
 
-- [Algorithms]()
+- [Algorithms](https://rjgeng.github.io/algorithms/)
 
 ## More about me....
  
 - 💻    I'm Rongjun GENG, a Full Stack Web Developer who was an electronics engineer oversea before.
-<!-- - 🌱    I am currently learning **Machine Learning**; and trying to build some projects using Pandas, TensorFlow, Flask, and Python.
-- 🔭    I am playing with Rust, WebAssembly (abbreviated Wasm) trying to refresh the obsolete C++, C, and Assembly. -->
+- 🌱    I am currently learning **Machine Learning**; and trying to build some projects using Pandas, TensorFlow, Flask, and Python.
+- 🔭    I am playing with Rust, WebAssembly (abbreviated Wasm) trying to refresh the obsolete C++, C, and Assembly. 
 - 🔬    Interested in most fields, ping me if you want to collaborate.
 - 🔗    Connect with me on <a href="https://www.linkedin.com/in/rjgeng/" target="_blank">LinkedIn</a>
 - 📧    Email me at <a href="rj.geng@gmail.com" target="_blank">rj.geng@gmail.com</a>
@@ -29,9 +29,6 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://knexjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105854-d28004c8-36ea-4ba4-b88e-e40e2d5ea3f3.png" width="60" height="60"/></a>
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="60" height="60"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162654231-c83b81ee-9a52-4386-91ef-8e09e15d9690.png"  width="60" height="60"/></a>
-
-<!-- 
-
 <a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
@@ -51,7 +48,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.liaoxuefeng.com/wiki/896043488029600" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159106028-e01de455-56aa-4e14-abf7-0db538dad915.png" height="60"/></a>
 
 
-
+<!-- 
 
 <a href="https://docs.blender.org/api/current/info_quickstart.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167180032-92cda390-b344-490e-a260-8fc175ce21ad.png" height="60"/></a>
 <a href="https://www.youtube.com/watch?v=yPWkPOfnGsw" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
