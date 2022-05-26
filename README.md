@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 
 - [Algorithms](https://rjgeng.github.io/algorithms/)
 
-- [Labs info](https://rjgeng.github.io/bloom-labs)
+- [Labs Code Heroes Status](https://rjgeng.github.io/bloom-labs)
 
 ## More about me....
  
