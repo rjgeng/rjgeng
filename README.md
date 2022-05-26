@@ -9,6 +9,8 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 
 - [Algorithms](https://rjgeng.github.io/algorithms/)
 
+- [Labs info](https://rjgeng.github.io/bloom-labs)
+
 ## More about me....
  
 - 💻    I'm Rongjun GENG, a Full Stack Web Developer who was an electronics engineer oversea before.
