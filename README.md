@@ -23,7 +23,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 ## Languages & Tools 🛠
  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162657213-0c44307c-d4df-4220-9d3c-46e00380c451.png" width="60" height="60"/></a>
-<a href="[https://www.youtube.com/watch?v=yPWkPOfnGsw](https://happycoding.io/tutorials/p5js/web-dev)" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
+<a href="https://happycoding.io/tutorials/p5js/web-dev" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162658828-2571ac65-4429-4c02-8c56-72988c50f8c9.png"  width="60" height="60"/></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162661655-a2593f8a-b295-4379-a39c-7ad864f0fd5d.png" height="60"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162661362-fd09b820-a471-4a20-826d-82da615a3cd2.png"   width="55" height="55"/></a>
