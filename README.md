@@ -32,7 +32,7 @@ I'm a Full Stack Web Developer & [Bloomtech](https://www.bloomtech.com/courses/f
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105858-1adcba28-57dd-4946-bccf-f0b0ea0aed2c.png"  width="60" height="60"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162654231-c83b81ee-9a52-4386-91ef-8e09e15d9690.png"  width="60" height="60"/></a>
 <a href="https://university.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105868-d5e54363-3aa5-4831-991b-bbba470a7b52.png" height="60"/></a>
-<a href="https://happycoding.io/tutorials/p5js/web-dev" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="60"/></a>
+<a href="https://happycoding.io/tutorials/p5js/web-dev" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/175383757-561037db-587e-4a13-af1e-2966c585bd76.png" height="60"/></a>
 <a href="https://www.gatsbyjs.com/docs" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105898-f14f4f87-66e3-4753-8526-ca1980dcc468.png" width="55" height="55"/></a>
 <a href="https://graphql.org/learn/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/159105906-217e0cb4-1190-45ad-985e-ca2af4a9fd9d.png" height="55"/></a>
 <a href="https://www.zhihu.com/question/499696887" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/163421125-5c4aaa49-ee67-4a49-b347-52366f82f16a.png" width="60" height="60"/></a>
