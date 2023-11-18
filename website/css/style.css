@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#stacks, #more {
+    margin-top: 20px;
+}
+
+#stacks p, #more p {
+    line-height: 1.6;
+}
