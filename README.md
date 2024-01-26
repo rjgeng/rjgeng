@@ -17,6 +17,7 @@ I'm Rongjun GENG, a software/electronics engineer from San Francisco Bay Area, C
 
 -  currently exploring **Machine Learning**; and trying to build some projects using ***TensorFlow***, ***TensorFlow2***, or ***Pytorch***; 
 -  playing with ***Rust***, ***WebAssembly***, and ***Web3*** stuff.
+-  playing the functional programming with python, javascript and scheme.
 
 <!-- 
  
