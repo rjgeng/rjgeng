@@ -2,7 +2,7 @@
 -->
 
 #### Hi there 👋
-I'm Rongjun GENG, a software/electronics engineer and a FP player. 
+I'm Rongjun GENG, a software, electronics and FP player. 
  
 #### Stacks 🛠
 
