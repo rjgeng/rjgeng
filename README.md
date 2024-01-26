@@ -2,7 +2,7 @@
 -->
 
 #### Hi there 👋
-I'm Rongjun GENG, a software/electronics engineer from San Francisco Bay Area, CA.
+I'm Rongjun GENG, a software/electronics engineer, and a functional programming player. 
  
 #### Stacks 🛠
 
