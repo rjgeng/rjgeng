@@ -10,7 +10,7 @@ I'm Rongjun GENG, a software developer.
 - **Database / API:** Postgres, MySQL, MongoDB / REST, GraphQL, gRPC
 - **EDA / FPGA:** Altium Designer / Xilinx Vivado & Vitis, Implement digital signal processing (DSP) algorithms on FPGAs
 - **SDR Platforms:** GNURadio, USRP Hardware Driver (UHD), and MATLAB
-- **Languages:** Verilog/VHDL, Scheme, Bash/Shell, C/C++, Java, Go, Rust, Python, JavaScript (TypeScript) and Node.js
+- **Languages:** Verilog/VHDL, Bash/Shell, C/C++, Java, Rust, Python, JavaScript (TypeScript)
 - **Additional Skills:** Agile Project Management, Test-driven development, Microservices architecture, AWS, CI/CD tools
 
 #### More 🔭  ...
