@@ -15,7 +15,7 @@ I'm Rongjun GENG, a software developer.
 
 #### More 🔭  ...
 
--  currently exploring **Machine Learning**; and trying to build some projects using ***TensorFlow***, ***TensorFlow2***, or ***Pytorch***; 
+-  currently exploring **Machine Learning**; and trying to build some projects using ***TensorFlow***, ***TensorFlow2***, and ***Pytorch***; 
 -  playing with ***Rust***, ***WebAssembly***, and ***Web3*** stuff.
 
 <!-- 
