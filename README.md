@@ -1,7 +1,6 @@
 <!-- <img src="https://user-images.githubusercontent.com/7886233/159105830-45f6da54-4603-4923-a533-9fd90aa35a3e.png" />
 -->
-I'm Rongjun GENG, a software developer. 
- 
+
 #### Stacks
 
 - **Frontend / Backend:** ReactJS / Node.js(Express), Python (Django, Flask/aiohttp)
