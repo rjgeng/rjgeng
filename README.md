@@ -9,7 +9,7 @@ I'm Rongjun GENG, a software developer.
 - **Frontend / Backend:** ReactJS / Node.js(Express), Python (Django, Flask/aiohttp)
 - **Database / API:** Postgres, MySQL, MongoDB / REST, GraphQL, gRPC
 - **Tools:** Altium Designer, Xilinx Vivado & Vitis, DSP, and MATLAB
-- **Dev Platforms:** GNURadio, USRP Hardware Driver (UHD)
+- **Dev Platforms:** GNU Radio, USRP Hardware Driver (UHD), TensorFlow, PyTorch 
 
 #### Languages
 - Verilog/VHDL, Linux_Shell, Embedded_C, C++(Rust), Java, Python, SQL, JavaScript (TypeScript)
