@@ -19,7 +19,7 @@ I'm Rongjun GENG, a software developer.
 
 #### More 🔭  ...
 
--  playing with ***Web3***, and **FP** coding
+-  Playing with Web3 and functional programming (FP) coding
 
 <!-- 
  
