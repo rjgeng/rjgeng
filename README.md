@@ -18,9 +18,11 @@
 
 -  Playing with Web3 and functional programming (FP) coding
 
+<!-- 
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselal)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
+
  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162657213-0c44307c-d4df-4220-9d3c-46e00380c451.png" width="60" height="60"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162658828-2571ac65-4429-4c02-8c56-72988c50f8c9.png"  width="60" height="60"/></a>
