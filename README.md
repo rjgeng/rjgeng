@@ -18,6 +18,9 @@
 
 -  Playing with Web3 and functional programming (FP) coding
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- 
  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162657213-0c44307c-d4df-4220-9d3c-46e00380c451.png" width="60" height="60"/></a>
