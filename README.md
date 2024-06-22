@@ -3,10 +3,10 @@
 
 #### Stacks
 
-- **Frontend / Backend:** ReactJS / Node.js(Express), Python (Django, Flask/aiohttp)
+- **Frontend / Backend:** Python (Django, Flask/aiohttp), ReactJS / Node.js(Express)
 - **Database / API:** Postgres, MySQL, MongoDB / REST, GraphQL, gRPC
-- **Tools:** Altium Designer, Xilinx Vivado & Vitis, DSP, and MATLAB
-- **Dev Platforms:** GNU Radio, USRP Hardware Driver (UHD), TensorFlow, PyTorch 
+- **Tools:** Altium Designer, Xilinx Vivado & Vitis, and MATLAB
+- **Dev Platforms:** GNURadio, USRP_UHD, TensorFlow, PyTorch 
 
 #### Languages
 - Verilog/VHDL, Linux_Shell, Embedded_C, C++(Rust), Java, Python, SQL, JavaScript (TypeScript)
