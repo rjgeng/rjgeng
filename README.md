@@ -6,7 +6,7 @@
 - **Frontend / Backend:** Python (Django, Flask/aiohttp), ReactJS / Node.js(Express)
 - **Database / API:** Postgres, MySQL, MongoDB / REST, GraphQL, gRPC
 - **Tools:** Altium Designer, Xilinx Vivado & Vitis, and MATLAB
-- **Dev Platforms:** GNURadio, USRP_UHD, TensorFlow, PyTorch 
+- **Dev Platforms:** GNURadio, USRP_UHD, TensorFlow, PyTorch, Web3/NFT
 
 #### Languages
 - Verilog/VHDL, Linux_Shell, Embedded_C, C++(Rust), Java, Python, SQL, JavaScript (TypeScript)
