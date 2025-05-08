@@ -3,15 +3,15 @@
 
 #### Stacks
 
-Languages: Python, C/C++, Bash, Rust, JavaScript
-LLM Tools & Frameworks: Hugging Face, LangChain, Gradio, FAISS, Chroma, Ollama, OpenAI, Claude, DeepSeek, Gemini
-GenAI Techniques: RAG, QLoRA, Prompt Engineering, Agents, Fine-tuning, Multi-modal Integration
-Backend & System: Linux (gdb, perf, valgrind), REST/gRPC/GraphQL APIs, multithreading, system calls
-DevOps & Cloud: Docker, GitHub Actions, Jenkins, AWS (S3, Lambda, EC2), Nginx
-Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
-Embedded & EDA: Altium Designer, Vivado, Verilog/VHDL, GNURadio, UHD, MATLAB
-Networking & Security: TCP/IP, WebSockets, MQTT, SELinux, HAProxy
-Version Control: Git, GitHub, GitLab, SVN
+-  Languages: Python, C/C++, Bash, Rust, JavaScript
+-  LLM Tools & Frameworks: Hugging Face, LangChain, Gradio, FAISS, Chroma, Ollama, OpenAI, Claude, DeepSeek, Gemini
+-  GenAI Techniques: RAG, QLoRA, Prompt Engineering, Agents, Fine-tuning, Multi-modal Integration
+-  Backend & System: Linux (gdb, perf, valgrind), REST/gRPC/GraphQL APIs, multithreading, system calls
+-  DevOps & Cloud: Docker, GitHub Actions, Jenkins, AWS (S3, Lambda, EC2), Nginx
+-  Databases: PostgreSQL, MySQL, MongoDB, Redis, SQLite
+-  Embedded & EDA: Altium Designer, Vivado, Verilog/VHDL, GNURadio, UHD, MATLAB
+-  Networking & Security: TCP/IP, WebSockets, MQTT, SELinux, HAProxy
+-  Version Control: Git, GitHub, GitLab, SVN
 
 <!-- 
 
