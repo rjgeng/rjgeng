@@ -3,18 +3,18 @@
 
 #### Stacks
 
--  Languages: Python, C/C++, Bash, Rust, JavaScript
--  Frontend: React + TailwindCSS
--  Backend: FastAPI + LangChain/OpenAI SDK
--  LLM Tools & Frameworks: Hugging Face, LangChain, Gradio, FAISS, Chroma, Ollama, OpenAI, Claude, DeepSeek, Gemini
--  GenAI Techniques: RAG, QLoRA, Prompt Engineering, Agents, Fine-tuning, Multi-modal Integration
--  Database: PostgreSQL + Chroma (or MongoDB for quick prototyping), MySQL, Redis, SQLite
--  Storage: S3/Supabase for files
--  Backend & System: Linux (gdb, perf, valgrind), REST/gRPC/GraphQL APIs, multithreading, system calls
--  DevOps & Cloud: Docker, GitHub Actions, Jenkins, AWS (S3, Lambda, EC2), Nginx
--  Embedded & EDA: Altium Designer, Vivado, Verilog/VHDL, GNURadio, UHD, MATLAB
--  Networking & Security: TCP/IP, WebSockets, MQTT, SELinux, HAProxy
--  Version Control: Git, GitHub, GitLab, SVN
+-  **Languages**: Python, C/C++, Bash, Rust, JavaScript
+-  **Frontend**: React + TailwindCSS
+-  **Backend**: FastAPI + LangChain/OpenAI SDK
+-  **LLM Tools & Frameworks**: Hugging Face, LangChain, Gradio, FAISS, Chroma, Ollama, OpenAI, Claude, DeepSeek, Gemini
+-  **GenAI Techniques**: RAG, QLoRA, Prompt Engineering, Agents, Fine-tuning, Multi-modal Integration
+-  **Database**: PostgreSQL + Chroma (or MongoDB for quick prototyping), MySQL, Redis, SQLite
+-  **Storage**: S3/Supabase for files
+-  **Backend & System**: Linux (gdb, perf, valgrind), REST/gRPC/GraphQL APIs, multithreading, system calls
+-  **DevOps & Cloud**: Docker, GitHub Actions, Jenkins, AWS (S3, Lambda, EC2), Nginx
+-  **Embedded & EDA**: Altium Designer, Vivado, Verilog/VHDL, GNURadio, UHD, MATLAB
+-  **Networking & Security**: TCP/IP, WebSockets, MQTT, SELinux, HAProxy
+-  **Version Control**: Git, GitHub, GitLab, SVN
 
 <!-- 
 
