@@ -1,3 +1,7 @@
+# Rongjun Geng
+
+AI/LLM & systems software engineer — agentic systems, RAG, full-stack.
+
 <!-- <img src="https://user-images.githubusercontent.com/7886233/159105830-45f6da54-4603-4923-a533-9fd90aa35a3e.png" />
 -->
 
@@ -15,6 +19,19 @@
 -  **Embedded & EDA**: Altium Designer, Vivado, Verilog/VHDL, GNURadio, UHD, MATLAB
 -  **Networking & Security**: TCP/IP, WebSockets, MQTT, SELinux, HAProxy
 -  **Version Control**: Git, GitHub, GitLab, SVN
+
+
+#### 🔀 Merged upstream contributions
+
+Recent fixes merged into [gastownhall/gascity](https://github.com/gastownhall/gascity), an open-source multi-agent orchestration platform — each reviewed and approved by independent maintainers:
+
+- [#2638](https://github.com/gastownhall/gascity/pull/2638) — fix(gc): warn before supervisor recycle during city init
+- [#2316](https://github.com/gastownhall/gascity/pull/2316) — fix(dolt): retry preflight when HEAD races on busy DBs
+- [#2136](https://github.com/gastownhall/gascity/pull/2136) — fix(maintenance): retry JSONL push on concurrent ref-update race
+- [#2088](https://github.com/gastownhall/gascity/pull/2088) — docs(convoy): clarify --help text re: workflows vs convoys
+- [#2037](https://github.com/gastownhall/gascity/pull/2037) — fix(packs): fallback to dolt-provider-state.json
+
+Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
 
 <!-- 
 
