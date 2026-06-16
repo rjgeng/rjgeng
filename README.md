@@ -24,6 +24,8 @@ multi-agent orchestration platform — each reviewed and approved by independent
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
 
+> Maintainer on [#3469](https://github.com/gastownhall/gascity/pull/3469): *"a careful, surgical fix — I especially appreciate that you keyed the dedup signature on the set of active conditions."*
+
 I also file actionable bug reports that maintainers act on — e.g.
 [#2814](https://github.com/gastownhall/gascity/issues/2814) (bundled Dolt 2.0.8 corruption → version pin)
 and [#2846](https://github.com/gastownhall/gascity/issues/2846) (compactor quarantine race starving GC) —
