@@ -9,9 +9,11 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
 
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**7 merged PRs across 2 repos:**
+**9 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#3981](https://github.com/gastownhall/gascity/pull/3981) — fix(cmd): imported command groups exit non-zero on unknown subcommands
+- [#3979](https://github.com/gastownhall/gascity/pull/3979) — fix(doctor): clarify external Dolt backup message — endpoint may be local
 - [#3469](https://github.com/gastownhall/gascity/pull/3469) — fix(dolt): dedup mol-dog-doctor advisory storm
 - [#2638](https://github.com/gastownhall/gascity/pull/2638) — fix(gc): warn before supervisor recycle during city init
 - [#2316](https://github.com/gastownhall/gascity/pull/2316) — fix(dolt): retry preflight when HEAD races on busy DBs
