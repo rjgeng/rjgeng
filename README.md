@@ -9,9 +9,13 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
 
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**10 merged PRs across 2 repos:**
+**14 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#4186](https://github.com/gastownhall/gascity/pull/4186) — fix(reaper): head+tail window sanitize_output so long-query errors survive
+- [#4156](https://github.com/gastownhall/gascity/pull/4156) — fix(materialize): remember gc-written symlink targets so pack-sha bumps self-heal
+- [#4129](https://github.com/gastownhall/gascity/pull/4129) — fix(dolt-cleanup): resolve DROP-stage user via GC_DOLT_USER instead of hardcoded root
+- [#4019](https://github.com/gastownhall/gascity/pull/4019) — feat(config): gc config explain renders idle/lifecycle-timeout agent keys
 - [#3981](https://github.com/gastownhall/gascity/pull/3981) — fix(cmd): imported command groups exit non-zero on unknown subcommands
 - [#3979](https://github.com/gastownhall/gascity/pull/3979) — fix(doctor): clarify external Dolt backup message — endpoint may be local
 - [#3922](https://github.com/gastownhall/gascity/pull/3922) — fix(doctor): recognize external Dolt endpoints in the dolt-backup check
