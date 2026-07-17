@@ -16,7 +16,7 @@ import sys
 
 REPOS = ["gastownhall/gascity", "gastownhall/gastown"]
 AUTHOR = "rjgeng"
-MAX_SHOWN_PER_REPO = 10
+MAX_SHOWN_PER_REPO = 5
 README_PATH = "README.md"
 START_MARKER = "<!-- AUTO-GENERATED:PR-LIST START — do not hand-edit; scripts/update_readme.py regenerates\n     this block on a schedule via .github/workflows/update-pr-list.yml -->"
 END_MARKER = "<!-- AUTO-GENERATED:PR-LIST END -->"
