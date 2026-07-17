@@ -19,12 +19,7 @@ multi-agent orchestration platform — each reviewed and approved by independent
 - [#4213](https://github.com/gastownhall/gascity/pull/4213) — fix(materialize): log a debug line when a shared skill-catalog name is shadowed
 - [#4211](https://github.com/gastownhall/gascity/pull/4211) — test(cmd/gc): regression coverage for rig-scoped pool default scale_check + work_query
 - [#4186](https://github.com/gastownhall/gascity/pull/4186) — fix(reaper): head+tail window sanitize_output so long-query errors survive
-- [#4156](https://github.com/gastownhall/gascity/pull/4156) — fix(materialize): remember gc-written symlink targets so pack-sha bumps self-heal
-- [#4129](https://github.com/gastownhall/gascity/pull/4129) — fix(dolt-cleanup): resolve DROP-stage user via GC_DOLT_USER instead of hardcoded root
-- [#4019](https://github.com/gastownhall/gascity/pull/4019) — feat(config): gc config explain renders idle/lifecycle-timeout agent keys
-- [#3981](https://github.com/gastownhall/gascity/pull/3981) — fix(cmd): imported command groups exit non-zero on unknown subcommands
-- [#3979](https://github.com/gastownhall/gascity/pull/3979) — fix(doctor): clarify external Dolt backup message — endpoint may be local
-- *…and 7 more — [see all 17](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 12 more — [see all 17](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
