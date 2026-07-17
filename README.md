@@ -7,6 +7,8 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
 
 #### 🔀 Merged upstream contributions
 
+<!-- AUTO-GENERATED:PR-LIST START — do not hand-edit; scripts/update_readme.py regenerates
+     this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
 **18 merged PRs across 2 repos:**
@@ -22,16 +24,11 @@ multi-agent orchestration platform — each reviewed and approved by independent
 - [#4019](https://github.com/gastownhall/gascity/pull/4019) — feat(config): gc config explain renders idle/lifecycle-timeout agent keys
 - [#3981](https://github.com/gastownhall/gascity/pull/3981) — fix(cmd): imported command groups exit non-zero on unknown subcommands
 - [#3979](https://github.com/gastownhall/gascity/pull/3979) — fix(doctor): clarify external Dolt backup message — endpoint may be local
-- [#3922](https://github.com/gastownhall/gascity/pull/3922) — fix(doctor): recognize external Dolt endpoints in the dolt-backup check
-- [#3469](https://github.com/gastownhall/gascity/pull/3469) — fix(dolt): dedup mol-dog-doctor advisory storm
-- [#2638](https://github.com/gastownhall/gascity/pull/2638) — fix(gc): warn before supervisor recycle during city init
-- [#2316](https://github.com/gastownhall/gascity/pull/2316) — fix(dolt): retry preflight when HEAD races on busy DBs
-- [#2136](https://github.com/gastownhall/gascity/pull/2136) — fix(maintenance): retry JSONL push on concurrent ref-update race
-- [#2088](https://github.com/gastownhall/gascity/pull/2088) — docs(convoy): clarify --help text re: workflows vs convoys
-- [#2037](https://github.com/gastownhall/gascity/pull/2037) — fix(packs): fallback to dolt-provider-state.json
+- *…and 7 more — [see all 17](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
-- [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in `bd kv list`
+- [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
+<!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
 
