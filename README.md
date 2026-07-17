@@ -9,9 +9,13 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
 
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**14 merged PRs across 2 repos:**
+**18 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#4219](https://github.com/gastownhall/gascity/pull/4219) — fix(runproj): warming snapshot no longer marshals historicalLanes/recentChanges as null
+- [#4216](https://github.com/gastownhall/gascity/pull/4216) — fix(cmd/gc): lint no longer flags the documented pool-disable form as a named-session conflict
+- [#4213](https://github.com/gastownhall/gascity/pull/4213) — fix(materialize): log a debug line when a shared skill-catalog name is shadowed
+- [#4211](https://github.com/gastownhall/gascity/pull/4211) — test(cmd/gc): regression coverage for rig-scoped pool default scale_check + work_query
 - [#4186](https://github.com/gastownhall/gascity/pull/4186) — fix(reaper): head+tail window sanitize_output so long-query errors survive
 - [#4156](https://github.com/gastownhall/gascity/pull/4156) — fix(materialize): remember gc-written symlink targets so pack-sha bumps self-heal
 - [#4129](https://github.com/gastownhall/gascity/pull/4129) — fix(dolt-cleanup): resolve DROP-stage user via GC_DOLT_USER instead of hardcoded root
