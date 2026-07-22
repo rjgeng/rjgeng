@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**21 merged PRs across 2 repos:**
+**23 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#4483](https://github.com/gastownhall/gascity/pull/4483) — fix(beads): skip nested Go modules in the bd-exec boundary walker
+- [#4482](https://github.com/gastownhall/gascity/pull/4482) — test(cmd_hook): resolve "true" via LookPath instead of hardcoding /bin/true
 - [#4406](https://github.com/gastownhall/gascity/pull/4406) — fix(cmd/gc): gc init --skip-provider-readiness accepts any builtin provider
 - [#4442](https://github.com/gastownhall/gascity/pull/4442) — fix(cmd/gc): gc hook --claim never adopts mail message beads as work
 - [#4248](https://github.com/gastownhall/gascity/pull/4248) — fix(doctor): warn when beads-store silently fell back to BdStore
-- [#4219](https://github.com/gastownhall/gascity/pull/4219) — fix(runproj): warming snapshot no longer marshals historicalLanes/recentChanges as null
-- [#4216](https://github.com/gastownhall/gascity/pull/4216) — fix(cmd/gc): lint no longer flags the documented pool-disable form as a named-session conflict
-- *…and 15 more — [see all 20](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 17 more — [see all 22](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
