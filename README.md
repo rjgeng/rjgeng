@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**23 merged PRs across 2 repos:**
+**27 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#4545](https://github.com/gastownhall/gascity/pull/4545) — fix(cmd/gc): only retarget engine-generated PreStart entries, not user-authored literals
+- [#4542](https://github.com/gastownhall/gascity/pull/4542) — fix(config): warn when a pack's agent_defaults never reaches its own imports
+- [#4540](https://github.com/gastownhall/gascity/pull/4540) — fix(packman): walk local path-source packs' own transitive remote imports
+- [#4538](https://github.com/gastownhall/gascity/pull/4538) — fix(config): hint the bare local name when a pack patch targets a qualified agent name
 - [#4483](https://github.com/gastownhall/gascity/pull/4483) — fix(beads): skip nested Go modules in the bd-exec boundary walker
-- [#4482](https://github.com/gastownhall/gascity/pull/4482) — test(cmd_hook): resolve "true" via LookPath instead of hardcoding /bin/true
-- [#4406](https://github.com/gastownhall/gascity/pull/4406) — fix(cmd/gc): gc init --skip-provider-readiness accepts any builtin provider
-- [#4442](https://github.com/gastownhall/gascity/pull/4442) — fix(cmd/gc): gc hook --claim never adopts mail message beads as work
-- [#4248](https://github.com/gastownhall/gascity/pull/4248) — fix(doctor): warn when beads-store silently fell back to BdStore
-- *…and 17 more — [see all 22](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 21 more — [see all 26](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
