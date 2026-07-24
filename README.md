@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**27 merged PRs across 2 repos:**
+**32 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#4545](https://github.com/gastownhall/gascity/pull/4545) — fix(cmd/gc): only retarget engine-generated PreStart entries, not user-authored literals
-- [#4542](https://github.com/gastownhall/gascity/pull/4542) — fix(config): warn when a pack's agent_defaults never reaches its own imports
-- [#4540](https://github.com/gastownhall/gascity/pull/4540) — fix(packman): walk local path-source packs' own transitive remote imports
-- [#4538](https://github.com/gastownhall/gascity/pull/4538) — fix(config): hint the bare local name when a pack patch targets a qualified agent name
-- [#4483](https://github.com/gastownhall/gascity/pull/4483) — fix(beads): skip nested Go modules in the bd-exec boundary walker
-- *…and 21 more — [see all 26](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#4583](https://github.com/gastownhall/gascity/pull/4583) — fix(cmd/gc): materialize newly-added skills on every applied config reload
+- [#4555](https://github.com/gastownhall/gascity/pull/4555) — fix(storehealth): add an absolute-size floor so small cities don't permanently trip maintenance-overdue
+- [#4554](https://github.com/gastownhall/gascity/pull/4554) — fix(sling): warn when --on/default-formula attach drops the target bead's description
+- [#4552](https://github.com/gastownhall/gascity/pull/4552) — fix(doctor): rig-pack-coverage recognizes same-name local pack replacements
+- [#4549](https://github.com/gastownhall/gascity/pull/4549) — fix(orders): give a never-run cron order one bounded catch-up chance
+- *…and 26 more — [see all 31](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
