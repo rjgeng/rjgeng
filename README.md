@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**34 merged PRs across 2 repos:**
+**35 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#4384](https://github.com/gastownhall/gascity/pull/4384) — fix(cmd/gc): validate explicit city path before scanning registry rig bindings
 - [#4405](https://github.com/gastownhall/gascity/pull/4405) — fix(runtime/k8s): propagate Nudge/SendKeys transport errors
 - [#3757](https://github.com/gastownhall/gascity/pull/3757) — feat(dolt): surface active compaction quarantine markers in gc dolt health
 - [#4583](https://github.com/gastownhall/gascity/pull/4583) — fix(cmd/gc): materialize newly-added skills on every applied config reload
 - [#4555](https://github.com/gastownhall/gascity/pull/4555) — fix(storehealth): add an absolute-size floor so small cities don't permanently trip maintenance-overdue
-- [#4554](https://github.com/gastownhall/gascity/pull/4554) — fix(sling): warn when --on/default-formula attach drops the target bead's description
-- *…and 28 more — [see all 33](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 29 more — [see all 34](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
