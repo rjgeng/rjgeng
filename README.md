@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**37 merged PRs across 2 repos:**
+**38 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#5138](https://github.com/gastownhall/gascity/pull/5138) — fix(session): thread liveness-probe observation into heal-state instead of hardcoding Observed:true
 - [#4485](https://github.com/gastownhall/gascity/pull/4485) — fix(supervisor): back off structural init failures far longer than transient ones
 - [#4875](https://github.com/gastownhall/gascity/pull/4875) — fix(dolt): send SIGTERM before SIGKILL in run_bounded's python3 fallback
 - [#4384](https://github.com/gastownhall/gascity/pull/4384) — fix(cmd/gc): validate explicit city path before scanning registry rig bindings
 - [#4405](https://github.com/gastownhall/gascity/pull/4405) — fix(runtime/k8s): propagate Nudge/SendKeys transport errors
-- [#3757](https://github.com/gastownhall/gascity/pull/3757) — feat(dolt): surface active compaction quarantine markers in gc dolt health
-- *…and 31 more — [see all 36](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 32 more — [see all 37](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
