@@ -51,6 +51,3 @@ both closed with a by-name thanks from a core committer.
 
 #### Pinned projects
 
-See pinned repos below — an AI trading workstation (FinAlly), a private-corpus RAG + web-search
-assistant (web_rag_search), GenAI/RAG notebooks (gen_ai), and an API-cost postmortem with guardrails.
-I publish the misses, not just the wins.
