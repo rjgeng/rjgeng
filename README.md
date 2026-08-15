@@ -5,7 +5,7 @@
 I build LLM-powered products end to end — FastAPI + LangChain backends, React frontends — and
 contribute fixes upstream to open-source multi-agent orchestration systems.
 
-## 🔀 Open-source contributions
+#### 🔀 Open-source contributions
 
 <!-- AUTO-GENERATED:PR-LIST START — do not hand-edit; scripts/update_readme.py regenerates
      this block on a schedule via .github/workflows/update-pr-list.yml -->
@@ -34,7 +34,7 @@ I also file actionable bug reports that maintainers act on — e.g.
 and [#2846](https://github.com/gastownhall/gascity/issues/2846) (compactor quarantine race starving GC) —
 both closed with a by-name thanks from a core committer.
 
-## 🧰 Technical stack
+#### 🧰 Technical stack
 
 **Languages**
 Python · Go · C/C++ · Rust · Bash · TypeScript / JavaScript
