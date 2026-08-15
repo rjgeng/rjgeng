@@ -5,7 +5,7 @@
 I build LLM-powered products end to end — FastAPI + LangChain backends, React frontends — and
 contribute fixes upstream to open-source multi-agent orchestration systems.
 
-#### 🔀 Merged upstream contributions
+## 🔀 Open-source contributions
 
 <!-- AUTO-GENERATED:PR-LIST START — do not hand-edit; scripts/update_readme.py regenerates
      this block on a schedule via .github/workflows/update-pr-list.yml -->
@@ -34,20 +34,35 @@ I also file actionable bug reports that maintainers act on — e.g.
 and [#2846](https://github.com/gastownhall/gascity/issues/2846) (compactor quarantine race starving GC) —
 both closed with a by-name thanks from a core committer.
 
-#### Stacks
+## 🧰 Technical stack
 
--  **Languages**: Python, C/C++, Bash, Rust, go, JavaScript (typescript)
--  **LLM Tools & Frameworks**: Hugging Face, LangChain, Gradio, FAISS, Chroma, Ollama, OpenAI, Claude, DeepSeek, Gemini
--  **GenAI Techniques**: RAG, QLoRA, Prompt Engineering, Agents, Fine-tuning, Multi-modal Integration
--  **Backend**: FastAPI + LangChain/OpenAI SDK
--  **Backend & System**: Linux (gdb, perf, valgrind), REST/gRPC/GraphQL APIs, multithreading, system calls
--  **Database**: PostgreSQL + Chroma (or MongoDB for quick prototyping), MySQL, Redis, SQLite
--  **Storage**: S3/Supabase for files
--  **Frontend**: React, next.js, + TailwindCSS
--  **DevOps & Cloud**: Docker, GitHub Actions, Jenkins, AWS (S3, Lambda, EC2), Nginx
--  **Networking & Security**: TCP/IP, WebSockets, MQTT, SELinux, HAProxy
--  **Embedded & EDA**: Altium Designer, Vivado, Verilog/VHDL, GNURadio, UHD, MATLAB
--  **Version Control**: Git, GitHub, GitLab, SVN
+**Languages**
+Python · Go · C/C++ · Rust · Bash · TypeScript / JavaScript
 
-#### Pinned projects
+**AI / LLM systems**
+Agentic systems · RAG · LangChain · Hugging Face · FAISS · Chroma · Ollama · OpenAI · Claude · Gemini · DeepSeek · QLoRA · fine-tuning · multimodal pipelines
 
+**Backend & distributed systems**
+FastAPI · REST · gRPC · GraphQL · WebSockets · multithreading · Linux system programming · subprocess/lifecycle management
+
+**Data**
+PostgreSQL · MySQL · Redis · SQLite · MongoDB · Chroma · S3 · Supabase
+
+**Frontend**
+React · Next.js · Tailwind CSS
+
+**Cloud & DevOps**
+AWS · Docker · GitHub Actions · Jenkins · Nginx · HAProxy
+
+**Linux debugging & reliability**
+gdb · perf · Valgrind · system calls · concurrency debugging · failure analysis · operational tooling
+
+**Networking / embedded / RF**
+TCP/IP · MQTT · GNU Radio · UHD · LabVIEW · KiCad · Altium Designer · Vivado · Verilog / VHDL
+
+**Version control**
+Git · GitHub · GitLab · SVN
+
+## 📌 Pinned projects
+
+See the repositories below for selected AI, systems, and engineering projects.
