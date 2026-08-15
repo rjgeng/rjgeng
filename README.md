@@ -40,16 +40,16 @@ both closed with a by-name thanks from a core committer.
 Python · Go · C/C++ · Rust · Bash · TypeScript / JavaScript
 
 **Agentic AI & orchestration**  
-Gas City · Gas Town · multi-agent orchestration · agent lifecycle management · RAG · LangChain · Hugging Face · FAISS · Chroma · Ollama · OpenAI · Claude · Gemini · DeepSeek
+Gas City · Gas Town · multi-agent orchestration · agent lifecycle management · tool use · human-in-the-loop workflows
 
-**AI / LLM techniques**  
-Agentic systems · RAG · QLoRA · fine-tuning · prompt engineering · multimodal pipelines · tool use · human-in-the-loop workflows
+**LLM / GenAI**  
+RAG · LangChain · Hugging Face · FAISS · Chroma · Ollama · OpenAI · Claude · Gemini · DeepSeek · QLoRA · fine-tuning · prompt engineering · multimodal pipelines
 
 **Backend & distributed systems**  
 FastAPI · REST · gRPC · GraphQL · WebSockets · multithreading · Linux system programming · subprocess/lifecycle management · concurrency control · failure recovery
 
 **Data & storage**  
-PostgreSQL · MySQL · Redis · SQLite · MongoDB · Chroma · S3 · Supabase · Dolt
+PostgreSQL · MySQL · Redis · SQLite · MongoDB · Dolt · S3 · Supabase
 
 **Frontend**  
 React · Next.js · Tailwind CSS
