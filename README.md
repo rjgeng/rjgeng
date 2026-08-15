@@ -36,14 +36,14 @@ both closed with a by-name thanks from a core committer.
 
 #### Stacks
 
--  **Languages**: Python, C/C++, Bash, Rust, JavaScript
+-  **Languages**: Python, C/C++, Bash, Rust, go, JavaScript (typescript)
 -  **LLM Tools & Frameworks**: Hugging Face, LangChain, Gradio, FAISS, Chroma, Ollama, OpenAI, Claude, DeepSeek, Gemini
 -  **GenAI Techniques**: RAG, QLoRA, Prompt Engineering, Agents, Fine-tuning, Multi-modal Integration
 -  **Backend**: FastAPI + LangChain/OpenAI SDK
 -  **Backend & System**: Linux (gdb, perf, valgrind), REST/gRPC/GraphQL APIs, multithreading, system calls
 -  **Database**: PostgreSQL + Chroma (or MongoDB for quick prototyping), MySQL, Redis, SQLite
 -  **Storage**: S3/Supabase for files
--  **Frontend**: React + TailwindCSS
+-  **Frontend**: React, next.js, + TailwindCSS
 -  **DevOps & Cloud**: Docker, GitHub Actions, Jenkins, AWS (S3, Lambda, EC2), Nginx
 -  **Networking & Security**: TCP/IP, WebSockets, MQTT, SELinux, HAProxy
 -  **Embedded & EDA**: Altium Designer, Vivado, Verilog/VHDL, GNURadio, UHD, MATLAB
