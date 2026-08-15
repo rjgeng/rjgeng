@@ -36,33 +36,36 @@ both closed with a by-name thanks from a core committer.
 
 #### 🧰 Technical stack
 
-**Languages**
+**Languages**  
 Python · Go · C/C++ · Rust · Bash · TypeScript / JavaScript
 
-**AI / LLM systems**
-Agentic systems · RAG · LangChain · Hugging Face · FAISS · Chroma · Ollama · OpenAI · Claude · Gemini · DeepSeek · QLoRA · fine-tuning · multimodal pipelines
+**Agentic AI & orchestration**  
+Gas City · Gas Town · multi-agent orchestration · agent lifecycle management · RAG · LangChain · Hugging Face · FAISS · Chroma · Ollama · OpenAI · Claude · Gemini · DeepSeek
 
-**Backend & distributed systems**
-FastAPI · REST · gRPC · GraphQL · WebSockets · multithreading · Linux system programming · subprocess/lifecycle management
+**AI / LLM techniques**  
+Agentic systems · RAG · QLoRA · fine-tuning · prompt engineering · multimodal pipelines · tool use · human-in-the-loop workflows
 
-**Data**
-PostgreSQL · MySQL · Redis · SQLite · MongoDB · Chroma · S3 · Supabase
+**Backend & distributed systems**  
+FastAPI · REST · gRPC · GraphQL · WebSockets · multithreading · Linux system programming · subprocess/lifecycle management · concurrency control · failure recovery
 
-**Frontend**
+**Data & storage**  
+PostgreSQL · MySQL · Redis · SQLite · MongoDB · Chroma · S3 · Supabase · Dolt
+
+**Frontend**  
 React · Next.js · Tailwind CSS
 
-**Cloud & DevOps**
+**Cloud & DevOps**  
 AWS · Docker · GitHub Actions · Jenkins · Nginx · HAProxy
 
-**Linux debugging & reliability**
-gdb · perf · Valgrind · system calls · concurrency debugging · failure analysis · operational tooling
+**Linux debugging & reliability**  
+gdb · perf · Valgrind · system calls · concurrency debugging · failure analysis · observability · operational guardrails
 
-**Networking / embedded / RF**
+**Networking / embedded / RF**  
 TCP/IP · MQTT · GNU Radio · UHD · LabVIEW · KiCad · Altium Designer · Vivado · Verilog / VHDL
 
-**Version control**
+**Version control**  
 Git · GitHub · GitLab · SVN
 
-## 📌 Pinned projects
+#### 📌 Pinned projects
 
-See the repositories below for selected AI, systems, and engineering projects.
+See the repositories below for selected AI, agentic-systems, systems-software, and engineering projects.
