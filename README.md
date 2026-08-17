@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**43 merged PRs across 2 repos:**
+**46 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#4925](https://github.com/gastownhall/gascity/pull/4925) — fix(import): local-in-git pack imports lock to HEAD, not latest tag
+- [#4898](https://github.com/gastownhall/gascity/pull/4898) — fix(gc): stop bd's dolt-unreachable message from suggesting a conflicting bd dolt start
+- [#5302](https://github.com/gastownhall/gascity/pull/5302) — fix(dashboard): add Claude 5-gen models to TRUE_CONTEXT_WINDOWS
 - [#4899](https://github.com/gastownhall/gascity/pull/4899) — fix(gc): document and JSON-report gc stop's supervisor unregister behavior
 - [#4900](https://github.com/gastownhall/gascity/pull/4900) — fix(gc): correct gc formula cook --attach help text (blocks, not parent-child)
-- [#4856](https://github.com/gastownhall/gascity/pull/4856) — fix(storehealth): bound LastMaintenance's event-log scan
-- [#4877](https://github.com/gastownhall/gascity/pull/4877) — fix(scripts): scan tracked files only in check-core-boundary.sh
-- [#4876](https://github.com/gastownhall/gascity/pull/4876) — fix(api): sort run steps into topological order
-- *…and 37 more — [see all 42](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 40 more — [see all 45](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
