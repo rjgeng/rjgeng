@@ -37,34 +37,31 @@ both closed with a by-name thanks from a core committer.
 #### 🧰 Technical stack
 
 **Languages**  
-Python · Go · C/C++ · Rust · Bash · TypeScript / JavaScript
+Go · Python · C/C++ · Bash · TypeScript / JavaScript
 
 **Agentic AI & orchestration**  
-Gas City · Gas Town · multi-agent orchestration · agent lifecycle management · tool use · human-in-the-loop workflows
+Gas City · Gas Town · multi-agent orchestration · agent lifecycle management · human-in-the-loop workflows
 
 **LLM / GenAI**  
-RAG · LangChain · Hugging Face · FAISS · Chroma · Ollama · OpenAI · Claude · Gemini · DeepSeek · QLoRA · fine-tuning · prompt engineering · multimodal pipelines
+RAG · LangChain · Chroma · OpenAI · Claude · prompt engineering
 
 **Backend & distributed systems**  
-FastAPI · REST · gRPC · GraphQL · WebSockets · multithreading · Linux system programming · subprocess/lifecycle management · concurrency control · failure recovery
+FastAPI · REST · concurrency control · subprocess & process lifecycle · Linux system programming · failure recovery
 
 **Data & storage**  
-PostgreSQL · MySQL · Redis · SQLite · MongoDB · Dolt · S3 · Supabase
+Dolt
 
 **Frontend**  
 React · Next.js · Tailwind CSS
 
-**Cloud & DevOps**  
-AWS · Docker · GitHub Actions · Jenkins · Nginx · HAProxy
+**CI & tooling**  
+Git · GitHub · GitHub Actions · GitLab · SVN
 
-**Linux debugging & reliability**  
-gdb · perf · Valgrind · system calls · concurrency debugging · failure analysis · observability · operational guardrails
+**Debugging & reliability**  
+concurrency debugging · failure analysis · operational guardrails · observability
 
 **Networking / embedded / RF**  
 TCP/IP · MQTT · GNU Radio · UHD · LabVIEW · KiCad · Altium Designer · Vivado · Verilog / VHDL
-
-**Version control**  
-Git · GitHub · GitLab · SVN
 
 #### 📌 Pinned projects
 
