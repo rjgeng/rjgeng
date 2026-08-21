@@ -49,7 +49,7 @@ RAG · LangChain · Chroma · OpenAI · Claude · prompt engineering
 FastAPI · REST · concurrency control · subprocess & process lifecycle · Linux system programming · failure recovery
 
 **Data & storage**  
-Dolt
+Dolt · PostgreSQL · Redis · SQLite · MongoDB · S3 · Supabase
 
 **Frontend**  
 React · Next.js · Tailwind CSS
