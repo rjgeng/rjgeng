@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**48 merged PRs across 2 repos:**
+**49 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#4947](https://github.com/gastownhall/gascity/pull/4947) — fix(config): caveat pack compatibility risk in workspace-identity deprecation warning
 - [#4927](https://github.com/gastownhall/gascity/pull/4927) — fix(wisp-gc): reap rootless plain-task wisps
 - [#4946](https://github.com/gastownhall/gascity/pull/4946) — fix(doctor): order-firing-current timeout is advisory, not blocking
 - [#4925](https://github.com/gastownhall/gascity/pull/4925) — fix(import): local-in-git pack imports lock to HEAD, not latest tag
 - [#4898](https://github.com/gastownhall/gascity/pull/4898) — fix(gc): stop bd's dolt-unreachable message from suggesting a conflicting bd dolt start
-- [#5302](https://github.com/gastownhall/gascity/pull/5302) — fix(dashboard): add Claude 5-gen models to TRUE_CONTEXT_WINDOWS
-- *…and 42 more — [see all 47](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 43 more — [see all 48](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
