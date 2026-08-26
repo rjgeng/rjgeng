@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**49 merged PRs across 2 repos:**
+**55 merged PRs across 2 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#4947](https://github.com/gastownhall/gascity/pull/4947) — fix(config): caveat pack compatibility risk in workspace-identity deprecation warning
-- [#4927](https://github.com/gastownhall/gascity/pull/4927) — fix(wisp-gc): reap rootless plain-task wisps
-- [#4946](https://github.com/gastownhall/gascity/pull/4946) — fix(doctor): order-firing-current timeout is advisory, not blocking
-- [#4925](https://github.com/gastownhall/gascity/pull/4925) — fix(import): local-in-git pack imports lock to HEAD, not latest tag
-- [#4898](https://github.com/gastownhall/gascity/pull/4898) — fix(gc): stop bd's dolt-unreachable message from suggesting a conflicting bd dolt start
-- *…and 43 more — [see all 48](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#5618](https://github.com/gastownhall/gascity/pull/5618) — fix(import): validate composed config after install, not just at doctor time
+- [#5616](https://github.com/gastownhall/gascity/pull/5616) — fix(config): keep resume's option-defaults gate scoped to explicit overrides
+- [#5628](https://github.com/gastownhall/gascity/pull/5628) — fix(bd): disclose which store gc bd list/ready/search/show answered from
+- [#5615](https://github.com/gastownhall/gascity/pull/5615) — fix(session): surface two setup-timeout config footguns as validation warnings
+- [#5612](https://github.com/gastownhall/gascity/pull/5612) — fix(ci): mac-regression's path filter was inert, gate the smoke tier properly
+- *…and 49 more — [see all 54](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
