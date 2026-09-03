@@ -11,7 +11,7 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**64 merged PRs across 2 repos:**
+**66 merged PRs across 3 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
 - [#5360](https://github.com/gastownhall/gascity/pull/5360) — fix(dashboard): widen city-name regex to match registry grammar
@@ -23,6 +23,10 @@ multi-agent orchestration platform — each reviewed and approved by independent
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
+
+**[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
+- [#314](https://github.com/gastownhall/gascity-packs/pull/314) — docs(gastown/refinery): note mr/pr mode is GitHub-specific
+- [#321](https://github.com/gastownhall/gascity-packs/pull/321) — feat(superpowers): vendor missing systematic-debugging skill
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
