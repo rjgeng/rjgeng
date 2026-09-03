@@ -14,7 +14,7 @@ import re
 import subprocess
 import sys
 
-REPOS = ["gastownhall/gascity", "gastownhall/gastown"]
+REPOS = ["gastownhall/gascity", "gastownhall/gastown", "gastownhall/gascity-packs"]
 AUTHOR = "rjgeng"
 MAX_SHOWN_PER_REPO = 5
 README_PATH = "README.md"
