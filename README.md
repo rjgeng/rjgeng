@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**69 merged PRs across 3 repos:**
+**71 merged PRs across 3 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#5376](https://github.com/gastownhall/gascity/pull/5376) — fix(gc): print short usage pointer instead of full command help on flag/arg errors
+- [#5375](https://github.com/gastownhall/gascity/pull/5375) — fix(session): evict wedged reset-pending sessions and bound crash-event noise
 - [#5363](https://github.com/gastownhall/gascity/pull/5363) — fix(nudge): record dispatch skips for busy-session legacy nudge poll
 - [#5362](https://github.com/gastownhall/gascity/pull/5362) — fix(prompt): resolve {{.ConfigDir}} in prompt template scope
 - [#5361](https://github.com/gastownhall/gascity/pull/5361) — fix(gc import): report actual upgrade movement, not lockfile entry count
-- [#5360](https://github.com/gastownhall/gascity/pull/5360) — fix(dashboard): widen city-name regex to match registry grammar
-- [#5301](https://github.com/gastownhall/gascity/pull/5301) — fix(events): normalize caller-supplied Ts to the recorder's zone
-- *…and 61 more — [see all 66](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 63 more — [see all 68](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
