@@ -11,7 +11,7 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**73 merged PRs across 3 repos:**
+**74 merged PRs across 3 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
 - [#5433](https://github.com/gastownhall/gascity/pull/5433) — fix(worker): codex auto-edit uses --sandbox workspace-write, not removed --full-auto
@@ -25,6 +25,7 @@ multi-agent orchestration platform — each reviewed and approved by independent
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
+- [#325](https://github.com/gastownhall/gascity-packs/pull/325) — fix(gastown/witness): add --include-infra to bd list molecule queries
 - [#314](https://github.com/gastownhall/gascity-packs/pull/314) — docs(gastown/refinery): note mr/pr mode is GitHub-specific
 - [#321](https://github.com/gastownhall/gascity-packs/pull/321) — feat(superpowers): vendor missing systematic-debugging skill
 <!-- AUTO-GENERATED:PR-LIST END -->
