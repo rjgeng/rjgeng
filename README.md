@@ -11,20 +11,21 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**74 merged PRs across 3 repos:**
+**76 merged PRs across 3 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#4926](https://github.com/gastownhall/gascity/pull/4926) — fix(searchpath): find Nix-installed provider CLIs
 - [#5433](https://github.com/gastownhall/gascity/pull/5433) — fix(worker): codex auto-edit uses --sandbox workspace-write, not removed --full-auto
 - [#5432](https://github.com/gastownhall/gascity/pull/5432) — fix(sling): --on dedup guard now covers convoy-first formulas-v2 launches
 - [#5376](https://github.com/gastownhall/gascity/pull/5376) — fix(gc): print short usage pointer instead of full command help on flag/arg errors
 - [#5375](https://github.com/gastownhall/gascity/pull/5375) — fix(session): evict wedged reset-pending sessions and bound crash-event noise
-- [#5363](https://github.com/gastownhall/gascity/pull/5363) — fix(nudge): record dispatch skips for busy-session legacy nudge poll
-- *…and 65 more — [see all 70](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 66 more — [see all 71](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
+- [#322](https://github.com/gastownhall/gascity-packs/pull/322) — fix(gastown/witness): complete crashed submit-and-exit handoff instead of resetting to pool
 - [#325](https://github.com/gastownhall/gascity-packs/pull/325) — fix(gastown/witness): add --include-infra to bd list molecule queries
 - [#314](https://github.com/gastownhall/gascity-packs/pull/314) — docs(gastown/refinery): note mr/pr mode is GitHub-specific
 - [#321](https://github.com/gastownhall/gascity-packs/pull/321) — feat(superpowers): vendor missing systematic-debugging skill
