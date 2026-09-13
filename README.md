@@ -47,25 +47,22 @@ both closed with a by-name thanks from a core committer.
 Go · Python · C/C++ · Bash · TypeScript / JavaScript
 
 **Agentic AI & orchestration**  
-Gas City · Gas Town · multi-agent orchestration · agent lifecycle management · human-in-the-loop workflows
+Gas City · Gas Town · multi-agent orchestration · agent lifecycle & reconciliation · tool-calling workflows · human-in-the-loop workflows
 
 **LLM / GenAI**  
-RAG · LangChain · Chroma · OpenAI · Claude · prompt engineering
+RAG · LangChain · Chroma · FAISS · OpenAI · Claude · DeepSeek · Prompt Engineering
 
-**Backend & distributed systems**  
-FastAPI · REST · concurrency control · subprocess & process lifecycle · Linux system programming · failure recovery
+**Full Stack & distributed systems**  
+React · Next.js · Tailwind CSS · FastAPI · REST · concurrency control · process & subprocess lifecycle · Linux systems programming · failure recovery
 
 **Data & storage**  
 Dolt · PostgreSQL · Redis · SQLite · MongoDB · S3 · Supabase
-
-**Frontend**  
-React · Next.js · Tailwind CSS
 
 **CI & tooling**  
 Git · GitHub · GitHub Actions · GitLab · SVN
 
 **Debugging & reliability**  
-concurrency debugging · failure analysis · operational guardrails · observability
+concurrency debugging · root-cause analysis · failure-mode analysis · operational guardrails · observability · regression testing
 
 **Networking / embedded / RF**  
 TCP/IP · MQTT · GNU Radio · UHD · LabVIEW · KiCad · Altium Designer · Vivado · Verilog / VHDL
