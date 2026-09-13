@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**79 merged PRs across 3 repos:**
+**81 merged PRs across 3 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#5614](https://github.com/gastownhall/gascity/pull/5614) — fix(events): truncate a NUL-padded tail left by an unclean shutdown
+- [#4547](https://github.com/gastownhall/gascity/pull/4547) — fix(cmd/gc): order dispatch searches all configured formula layers, not just the order's own
 - [#5617](https://github.com/gastownhall/gascity/pull/5617) — fix(tmux): don't clear-before-paste on an attached session
 - [#5613](https://github.com/gastownhall/gascity/pull/5613) — fix(reaper): expired-nudge cleanup now closes rig-scoped shadows too
 - [#4926](https://github.com/gastownhall/gascity/pull/4926) — fix(searchpath): find Nix-installed provider CLIs
-- [#5433](https://github.com/gastownhall/gascity/pull/5433) — fix(worker): codex auto-edit uses --sandbox workspace-write, not removed --full-auto
-- [#5432](https://github.com/gastownhall/gascity/pull/5432) — fix(sling): --on dedup guard now covers convoy-first formulas-v2 launches
-- *…and 68 more — [see all 73](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 70 more — [see all 75](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
