@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**82 merged PRs across 3 repos:**
+**87 merged PRs across 3 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#5364](https://github.com/gastownhall/gascity/pull/5364) — fix(nudge): re-validate mail nudges at delivery time too
-- [#5614](https://github.com/gastownhall/gascity/pull/5614) — fix(events): truncate a NUL-padded tail left by an unclean shutdown
-- [#4547](https://github.com/gastownhall/gascity/pull/4547) — fix(cmd/gc): order dispatch searches all configured formula layers, not just the order's own
-- [#5617](https://github.com/gastownhall/gascity/pull/5617) — fix(tmux): don't clear-before-paste on an attached session
-- [#5613](https://github.com/gastownhall/gascity/pull/5613) — fix(reaper): expired-nudge cleanup now closes rig-scoped shadows too
-- *…and 71 more — [see all 76](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#5855](https://github.com/gastownhall/gascity/pull/5855) — fix(formula): tell review-quorum workers not to poison success closes with failure metadata
+- [#5757](https://github.com/gastownhall/gascity/pull/5757) — fix(hook): read each ephemeral scan once per query, not once per identity
+- [#5752](https://github.com/gastownhall/gascity/pull/5752) — fix(events): a wide --since window now truncates instead of failing with nothing
+- [#5748](https://github.com/gastownhall/gascity/pull/5748) — fix(events): activeScanStart falls back to a full scan on a reversed-seq log
+- [#5700](https://github.com/gastownhall/gascity/pull/5700) — fix(dashboardbff): unwrap the response writer before the Flusher check on run-detail stream
+- *…and 76 more — [see all 81](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
