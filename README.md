@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**88 merged PRs across 3 repos:**
+**89 merged PRs across 3 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#5756](https://github.com/gastownhall/gascity/pull/5756) — fix(events): fail a short single-record write instead of counting it as written
 - [#5812](https://github.com/gastownhall/gascity/pull/5812) — fix(session): fail loudly when waking a session whose rig is suspended
 - [#5855](https://github.com/gastownhall/gascity/pull/5855) — fix(formula): tell review-quorum workers not to poison success closes with failure metadata
 - [#5757](https://github.com/gastownhall/gascity/pull/5757) — fix(hook): read each ephemeral scan once per query, not once per identity
 - [#5752](https://github.com/gastownhall/gascity/pull/5752) — fix(events): a wide --since window now truncates instead of failing with nothing
-- [#5748](https://github.com/gastownhall/gascity/pull/5748) — fix(events): activeScanStart falls back to a full scan on a reversed-seq log
-- *…and 77 more — [see all 82](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 78 more — [see all 83](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
