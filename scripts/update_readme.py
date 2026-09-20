@@ -16,7 +16,10 @@ import sys
 
 REPOS = ["gastownhall/gascity", "gastownhall/gastown", "gastownhall/gascity-packs"]
 AUTHOR = "rjgeng"
-MAX_SHOWN_PER_REPO = 5
+DEFAULT_MAX_SHOWN_PER_REPO = 5
+MAX_SHOWN_BY_REPO = {
+    "gastownhall/gascity-packs": 2,
+}
 README_PATH = "README.md"
 START_MARKER = "<!-- AUTO-GENERATED:PR-LIST START — do not hand-edit; scripts/update_readme.py regenerates\n     this block on a schedule via .github/workflows/update-pr-list.yml -->"
 END_MARKER = "<!-- AUTO-GENERATED:PR-LIST END -->"
@@ -45,16 +48,17 @@ def clean_title(title):
 
 def format_repo_section(repo, prs):
     total = len(prs)
-    shown = prs[:MAX_SHOWN_PER_REPO]
+    max_shown = MAX_SHOWN_BY_REPO.get(repo, DEFAULT_MAX_SHOWN_PER_REPO)
+    shown = prs[:max_shown]
     lines = [f"**[{repo}](https://github.com/{repo})**"]
     for pr in shown:
         lines.append(f"- [#{pr['number']}]({pr['url']}) — {clean_title(pr['title'])}")
-    if total > MAX_SHOWN_PER_REPO:
+    if total > max_shown:
         search_url = (
             f"https://github.com/search?q=repo%3A{repo.replace('/', '%2F')}"
             f"+is%3Apr+is%3Amerged+author%3A{AUTHOR}&type=pullrequests"
         )
-        remaining = total - MAX_SHOWN_PER_REPO
+        remaining = total - max_shown
         lines.append(f"- *…and {remaining} more — [see all {total}]({search_url})*")
     return "\n".join(lines)
 

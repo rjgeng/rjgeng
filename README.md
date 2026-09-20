@@ -27,9 +27,7 @@ multi-agent orchestration platform — each reviewed and approved by independent
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#320](https://github.com/gastownhall/gascity-packs/pull/320) — fix(gastown/witness): re-verify liveness before delete, content-check merges past rebase/squash
 - [#322](https://github.com/gastownhall/gascity-packs/pull/322) — fix(gastown/witness): complete crashed submit-and-exit handoff instead of resetting to pool
-- [#325](https://github.com/gastownhall/gascity-packs/pull/325) — fix(gastown/witness): add --include-infra to bd list molecule queries
-- [#314](https://github.com/gastownhall/gascity-packs/pull/314) — docs(gastown/refinery): note mr/pr mode is GitHub-specific
-- [#321](https://github.com/gastownhall/gascity-packs/pull/321) — feat(superpowers): vendor missing systematic-debugging skill
+- *…and 3 more — [see all 5](https://github.com/search?q=repo%3Agastownhall%2Fgascity-packs+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
