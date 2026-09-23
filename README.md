@@ -9,17 +9,17 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
 
 <!-- AUTO-GENERATED:PR-LIST START — do not hand-edit; scripts/update_readme.py regenerates
      this block on a schedule via .github/workflows/update-pr-list.yml -->
-Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
+Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**93 merged PRs across 3 repos:**
+**95 merged contributions across 4 repos:**
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#6411](https://github.com/gastownhall/gascity/pull/6411) — fix(ci): raise cmd-gc-productmetrics-testhook's timeout to fit the runner it actually gets
 - [#5939](https://github.com/gastownhall/gascity/pull/5939) — fix(nudge): add a drop verb for stale pending nudges instead of requiring manual state.json surgery
 - [#5938](https://github.com/gastownhall/gascity/pull/5938) — fix(sessionlog): thread the transcript entry's own timestamp through to Fact.At instead of stamping now
 - [#5933](https://github.com/gastownhall/gascity/pull/5933) — fix(mail): respect cfg.Mail.RetentionTTL in the nudge-mail sweep instead of a hardcoded 60m
 - [#5913](https://github.com/gastownhall/gascity/pull/5913) — fix(supervisor): guard the supervisor socket path against Unix domain socket length limits
-- [#5756](https://github.com/gastownhall/gascity/pull/5756) — fix(events): fail a short single-record write instead of counting it as written
-- *…and 82 more — [see all 87](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 83 more — [see all 88](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
@@ -28,6 +28,9 @@ multi-agent orchestration platform — each reviewed and approved by independent
 - [#320](https://github.com/gastownhall/gascity-packs/pull/320) — fix(gastown/witness): re-verify liveness before delete, content-check merges past rebase/squash
 - [#322](https://github.com/gastownhall/gascity-packs/pull/322) — fix(gastown/witness): complete crashed submit-and-exit handoff instead of resetting to pool
 - *…and 3 more — [see all 5](https://github.com/search?q=repo%3Agastownhall%2Fgascity-packs+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+
+**[gastownhall/beads](https://github.com/gastownhall/beads)**
+- [#6574](https://github.com/gastownhall/beads/pull/6574) — fix(config): dotted keys round-trip through SetYamlConfigInDir/UnsetYamlConfig (bd-zj95, 1.3.1) — *includes Rongjun's preserved authored compatibility fix*
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.

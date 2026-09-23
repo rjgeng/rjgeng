@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Regenerates the merged-PR-list block in README.md from live GitHub data.
+"""Regenerates the merged-contribution block in README.md from live GitHub data.
 
-Reads merged PRs authored by AUTHOR from each repo in REPOS (read-only —
-never writes to those repos). Only the region between the
+Reads merged PRs authored by AUTHOR plus explicitly credited contributions
+whose PR was opened by a maintainer (read-only — never writes to those repos).
+Only the region between the
 AUTO-GENERATED:PR-LIST markers in README.md is replaced; everything else
 in the file (intro, maintainer quote, stacks, pinned projects) is
 hand-authored and left untouched.
@@ -14,8 +15,20 @@ import re
 import subprocess
 import sys
 
-REPOS = ["gastownhall/gascity", "gastownhall/gastown", "gastownhall/gascity-packs"]
+REPOS = [
+    "gastownhall/gascity",
+    "gastownhall/gastown",
+    "gastownhall/gascity-packs",
+    "gastownhall/beads",
+]
 AUTHOR = "rjgeng"
+CREDITED_PRS_BY_REPO = {
+    # PR #6574 was opened by a maintainer, but includes Rongjun's compatibility
+    # follow-up with the original commit authorship preserved.
+    "gastownhall/beads": {
+        6574: "includes Rongjun's preserved authored compatibility fix",
+    },
+}
 DEFAULT_MAX_SHOWN_PER_REPO = 5
 MAX_SHOWN_BY_REPO = {
     "gastownhall/gascity-packs": 2,
@@ -35,6 +48,21 @@ def fetch_merged_prs(repo):
         check=True, capture_output=True, text=True,
     ).stdout
     prs = json.loads(out)
+    known_numbers = {pr["number"] for pr in prs}
+    for number, credit_note in CREDITED_PRS_BY_REPO.get(repo, {}).items():
+        if number in known_numbers:
+            continue
+        credited_out = subprocess.run(
+            [
+                "gh", "pr", "view", str(number), "--repo", repo,
+                "--json", "number,title,url,mergedAt",
+            ],
+            check=True, capture_output=True, text=True,
+        ).stdout
+        credited_pr = json.loads(credited_out)
+        if credited_pr["mergedAt"]:
+            credited_pr["creditNote"] = credit_note
+            prs.append(credited_pr)
     prs.sort(key=lambda p: p["mergedAt"], reverse=True)
     return prs
 
@@ -52,7 +80,10 @@ def format_repo_section(repo, prs):
     shown = prs[:max_shown]
     lines = [f"**[{repo}](https://github.com/{repo})**"]
     for pr in shown:
-        lines.append(f"- [#{pr['number']}]({pr['url']}) — {clean_title(pr['title'])}")
+        credit_note = f" — *{pr['creditNote']}*" if pr.get("creditNote") else ""
+        lines.append(
+            f"- [#{pr['number']}]({pr['url']}) — {clean_title(pr['title'])}{credit_note}"
+        )
     if total > max_shown:
         search_url = (
             f"https://github.com/search?q=repo%3A{repo.replace('/', '%2F')}"
@@ -72,9 +103,9 @@ def main():
         sections.append(format_repo_section(repo, prs))
 
     summary_line = (
-        "Fixes merged across the [gastownhall](https://github.com/gastownhall) ecosystem — "
+        "Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — "
         "an open-source\nmulti-agent orchestration platform — each reviewed and approved by "
-        f"independent maintainers.\n**{total_count} merged PRs across {len(REPOS)} repos:**"
+        f"independent maintainers.\n**{total_count} merged contributions across {len(REPOS)} repos:**"
     )
 
     body = summary_line + "\n\n" + "\n\n".join(sections)
