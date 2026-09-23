@@ -16,10 +16,7 @@ multi-agent orchestration platform — each reviewed and approved by independent
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
 - [#6411](https://github.com/gastownhall/gascity/pull/6411) — fix(ci): raise cmd-gc-productmetrics-testhook's timeout to fit the runner it actually gets
 - [#5939](https://github.com/gastownhall/gascity/pull/5939) — fix(nudge): add a drop verb for stale pending nudges instead of requiring manual state.json surgery
-- [#5938](https://github.com/gastownhall/gascity/pull/5938) — fix(sessionlog): thread the transcript entry's own timestamp through to Fact.At instead of stamping now
-- [#5933](https://github.com/gastownhall/gascity/pull/5933) — fix(mail): respect cfg.Mail.RetentionTTL in the nudge-mail sweep instead of a hardcoded 60m
-- [#5913](https://github.com/gastownhall/gascity/pull/5913) — fix(supervisor): guard the supervisor socket path against Unix domain socket length limits
-- *…and 83 more — [see all 88](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 86 more — [see all 88](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list

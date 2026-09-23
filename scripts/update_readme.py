@@ -31,6 +31,7 @@ CREDITED_PRS_BY_REPO = {
 }
 DEFAULT_MAX_SHOWN_PER_REPO = 5
 MAX_SHOWN_BY_REPO = {
+    "gastownhall/gascity": 2,
     "gastownhall/gascity-packs": 2,
 }
 README_PATH = "README.md"
