@@ -16,8 +16,8 @@ import subprocess
 import sys
 
 REPOS = [
-    "gastownhall/gascity",
     "gastownhall/gastown",
+    "gastownhall/gascity",
     "gastownhall/gascity-packs",
     "gastownhall/beads",
 ]
