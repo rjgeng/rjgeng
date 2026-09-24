@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**95 merged contributions across 4 repos:**
+**96 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#6043](https://github.com/gastownhall/gascity/pull/6043) — fix(processenv): partial secrets.env parse, skip multi-line quoted blocks, redact parse errors (#5982, #6022)
 - [#6411](https://github.com/gastownhall/gascity/pull/6411) — fix(ci): raise cmd-gc-productmetrics-testhook's timeout to fit the runner it actually gets
-- [#5939](https://github.com/gastownhall/gascity/pull/5939) — fix(nudge): add a drop verb for stale pending nudges instead of requiring manual state.json surgery
-- *…and 86 more — [see all 88](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 87 more — [see all 89](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#320](https://github.com/gastownhall/gascity-packs/pull/320) — fix(gastown/witness): re-verify liveness before delete, content-check merges past rebase/squash
