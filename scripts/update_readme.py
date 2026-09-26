@@ -29,10 +29,16 @@ CREDITED_PRS_BY_REPO = {
         6574: "includes Rongjun's preserved authored compatibility fix",
     },
 }
+FEATURED_PRS_BY_REPO = {
+    # Keep the credited maintainer-opened contribution visible; the remainder
+    # link surfaces the authored PRs that GitHub's author search can enumerate.
+    "gastownhall/beads": [6574],
+}
 DEFAULT_MAX_SHOWN_PER_REPO = 5
 MAX_SHOWN_BY_REPO = {
     "gastownhall/gascity": 2,
     "gastownhall/gascity-packs": 2,
+    "gastownhall/beads": 1,
 }
 README_PATH = "README.md"
 START_MARKER = "<!-- AUTO-GENERATED:PR-LIST START — do not hand-edit; scripts/update_readme.py regenerates\n     this block on a schedule via .github/workflows/update-pr-list.yml -->"
@@ -65,6 +71,10 @@ def fetch_merged_prs(repo):
             credited_pr["creditNote"] = credit_note
             prs.append(credited_pr)
     prs.sort(key=lambda p: p["mergedAt"], reverse=True)
+    featured = FEATURED_PRS_BY_REPO.get(repo, [])
+    if featured:
+        rank = {number: index for index, number in enumerate(featured)}
+        prs.sort(key=lambda p: rank.get(p["number"], len(featured)))
     return prs
 
 
