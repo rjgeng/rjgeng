@@ -38,7 +38,7 @@ DEFAULT_MAX_SHOWN_PER_REPO = 5
 MAX_SHOWN_BY_REPO = {
     "gastownhall/gascity": 2,
     "gastownhall/gascity-packs": 2,
-    "gastownhall/beads": 1,
+    "gastownhall/beads": 2,
 }
 README_PATH = "README.md"
 START_MARKER = "<!-- AUTO-GENERATED:PR-LIST START — do not hand-edit; scripts/update_readme.py regenerates\n     this block on a schedule via .github/workflows/update-pr-list.yml -->"
