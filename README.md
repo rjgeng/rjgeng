@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**101 merged contributions across 4 repos:**
+**105 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#6620](https://github.com/gastownhall/gascity/pull/6620) — test(bazel): keep filesystem assumptions hermetic
 - [#6043](https://github.com/gastownhall/gascity/pull/6043) — fix(processenv): partial secrets.env parse, skip multi-line quoted blocks, redact parse errors (#5982, #6022)
-- [#6411](https://github.com/gastownhall/gascity/pull/6411) — fix(ci): raise cmd-gc-productmetrics-testhook's timeout to fit the runner it actually gets
-- *…and 87 more — [see all 89](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 88 more — [see all 90](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#320](https://github.com/gastownhall/gascity-packs/pull/320) — fix(gastown/witness): re-verify liveness before delete, content-check merges past rebase/squash
@@ -28,8 +28,8 @@ multi-agent orchestration platform — each reviewed and approved by independent
 
 **[gastownhall/beads](https://github.com/gastownhall/beads)**
 - [#6574](https://github.com/gastownhall/beads/pull/6574) — fix(config): dotted keys round-trip through SetYamlConfigInDir/UnsetYamlConfig (bd-zj95, 1.3.1) — *includes Rongjun's preserved authored compatibility fix*
-- [#6662](https://github.com/gastownhall/beads/pull/6662) — fix(embeddeddolt): shape lenient gate warnings
-- *…and 4 more — [see all 6](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#6589](https://github.com/gastownhall/beads/pull/6589) — fix(prime): honor shared-server mode consistently across bd prime's store resolution paths
+- *…and 7 more — [see all 9](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
