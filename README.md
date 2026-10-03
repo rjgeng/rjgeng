@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**107 merged contributions across 4 repos:**
+**108 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#5972](https://github.com/gastownhall/gascity/pull/5972) — fix(worktree): gc worktree ensure now materializes skills when --agent is given
 - [#6620](https://github.com/gastownhall/gascity/pull/6620) — test(bazel): keep filesystem assumptions hermetic
-- [#6043](https://github.com/gastownhall/gascity/pull/6043) — fix(processenv): partial secrets.env parse, skip multi-line quoted blocks, redact parse errors (#5982, #6022)
-- *…and 88 more — [see all 90](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 89 more — [see all 91](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#320](https://github.com/gastownhall/gascity-packs/pull/320) — fix(gastown/witness): re-verify liveness before delete, content-check merges past rebase/squash
