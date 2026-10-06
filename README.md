@@ -11,25 +11,25 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**111 merged contributions across 4 repos:**
+**116 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#6163](https://github.com/gastownhall/gascity/pull/6163) — fix(workflow): read workflow descendants at TierBoth through the live handle
 - [#6728](https://github.com/gastownhall/gascity/pull/6728) — fix(orphan-sweep): avoid pipefail membership misses
-- [#4857](https://github.com/gastownhall/gascity/pull/4857) — fix(mail): authorize --from against the calling session's own identity
-- *…and 92 more — [see all 94](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 93 more — [see all 95](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
+- [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
 - [#320](https://github.com/gastownhall/gascity-packs/pull/320) — fix(gastown/witness): re-verify liveness before delete, content-check merges past rebase/squash
-- [#322](https://github.com/gastownhall/gascity-packs/pull/322) — fix(gastown/witness): complete crashed submit-and-exit handoff instead of resetting to pool
-- *…and 3 more — [see all 5](https://github.com/search?q=repo%3Agastownhall%2Fgascity-packs+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 4 more — [see all 6](https://github.com/search?q=repo%3Agastownhall%2Fgascity-packs+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/beads](https://github.com/gastownhall/beads)**
 - [#6574](https://github.com/gastownhall/beads/pull/6574) — fix(config): dotted keys round-trip through SetYamlConfigInDir/UnsetYamlConfig (bd-zj95, 1.3.1) — *includes Rongjun's preserved authored compatibility fix*
-- [#5795](https://github.com/gastownhall/beads/pull/5795) — fix(embeddeddolt): commit pending changes before push
-- *…and 9 more — [see all 11](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#7198](https://github.com/gastownhall/beads/pull/7198) — ci: hotfix/** PRs now get full CI
+- *…and 12 more — [see all 14](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
