@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**116 merged contributions across 4 repos:**
+**119 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#6163](https://github.com/gastownhall/gascity/pull/6163) — fix(workflow): read workflow descendants at TierBoth through the live handle
-- [#6728](https://github.com/gastownhall/gascity/pull/6728) — fix(orphan-sweep): avoid pipefail membership misses
-- *…and 93 more — [see all 95](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#6512](https://github.com/gastownhall/gascity/pull/6512) — fix(dolt): unblock watchdog SIGKILL on Darwin
+- [#6811](https://github.com/gastownhall/gascity/pull/6811) — fix(beads): preserve city JSONL retention opt-out
+- *…and 96 more — [see all 98](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
