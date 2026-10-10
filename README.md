@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**119 merged contributions across 4 repos:**
+**122 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#6512](https://github.com/gastownhall/gascity/pull/6512) — fix(dolt): unblock watchdog SIGKILL on Darwin
-- [#6811](https://github.com/gastownhall/gascity/pull/6811) — fix(beads): preserve city JSONL retention opt-out
-- *…and 96 more — [see all 98](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#5257](https://github.com/gastownhall/gascity/pull/5257) — fix(mail): add unread-mail TTL so never-read mail wisps age out
+- [#6062](https://github.com/gastownhall/gascity/pull/6062) — fix(cmd/gc): reopen-source also reopens tracking convoys
+- *…and 98 more — [see all 100](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
@@ -28,8 +28,8 @@ multi-agent orchestration platform — each reviewed and approved by independent
 
 **[gastownhall/beads](https://github.com/gastownhall/beads)**
 - [#6574](https://github.com/gastownhall/beads/pull/6574) — fix(config): dotted keys round-trip through SetYamlConfigInDir/UnsetYamlConfig (bd-zj95, 1.3.1) — *includes Rongjun's preserved authored compatibility fix*
-- [#7198](https://github.com/gastownhall/beads/pull/7198) — ci: hotfix/** PRs now get full CI
-- *…and 12 more — [see all 14](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#7146](https://github.com/gastownhall/beads/pull/7146) — fix(dolt): backport #6876 to hotfix/1.3.1 — publish the blocked-state recheck after its transaction commits
+- *…and 13 more — [see all 15](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
