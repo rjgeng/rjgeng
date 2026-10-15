@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**126 merged contributions across 4 repos:**
+**128 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#6734](https://github.com/gastownhall/gascity/pull/6734) — fix(runtime): recognize Codex trust dialog
 - [#5977](https://github.com/gastownhall/gascity/pull/5977) — fix(tmux): detect Claude's bare-gerund spinner, confirm submits on idle->busy, cancel copy-mode in nudges
-- [#6038](https://github.com/gastownhall/gascity/pull/6038) — fix(sling): skip a batch child the fresh check finds no longer open
-- *…and 101 more — [see all 103](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 102 more — [see all 104](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
@@ -28,8 +28,8 @@ multi-agent orchestration platform — each reviewed and approved by independent
 
 **[gastownhall/beads](https://github.com/gastownhall/beads)**
 - [#6574](https://github.com/gastownhall/beads/pull/6574) — fix(config): dotted keys round-trip through SetYamlConfigInDir/UnsetYamlConfig (bd-zj95, 1.3.1) — *includes Rongjun's preserved authored compatibility fix*
-- [#7246](https://github.com/gastownhall/beads/pull/7246) — fix(wisp): bd mol wisp gc --age 0s no longer misses a just-created wisp
-- *…and 14 more — [see all 16](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#7504](https://github.com/gastownhall/beads/pull/7504) — fix(scripts): update-nix-vendorhash no longer reports a build failure as success
+- *…and 15 more — [see all 17](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
