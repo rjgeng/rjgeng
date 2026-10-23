@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**131 merged contributions across 4 repos:**
+**132 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
+- [#6938](https://github.com/gastownhall/gascity/pull/6938) — test(contract): isolate managed-city reachability checks
 - [#7903](https://github.com/gastownhall/gascity/pull/7903) — fix(beads): List with two or more Assignees fans out its bd list leg per assignee instead of scanning
-- [#6734](https://github.com/gastownhall/gascity/pull/6734) — fix(runtime): recognize Codex trust dialog
-- *…and 103 more — [see all 105](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- *…and 104 more — [see all 106](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
