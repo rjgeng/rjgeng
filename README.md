@@ -37,9 +37,13 @@ Themes: concurrency races, operational guardrails, and failure-mode UX in long-r
 > Maintainer on [#3469](https://github.com/gastownhall/gascity/pull/3469): *"a careful, surgical fix — I especially appreciate that you keyed the dedup signature on the set of active conditions."*
 
 I also file actionable bug reports that maintainers act on — e.g.
-[#2814](https://github.com/gastownhall/gascity/issues/2814) (bundled Dolt 2.0.8 corruption → version pin)
-and [#2846](https://github.com/gastownhall/gascity/issues/2846) (compactor quarantine race starving GC) —
-both closed with a by-name thanks from a core committer.
+[#2814](https://github.com/gastownhall/gascity/issues/2814) (bundled Dolt 2.0.8 corruption → version pin),
+closed with a by-name thanks from a core committer, and
+[#5081](https://github.com/gastownhall/gascity/issues/5081) (`gc status` abandons rather than cancels a
+per-agent observation goroutine on timeout), independently reproduced by another contributor. I also flag
+cross-cutting CI reliability issues when a pattern repeats across PRs — e.g.
+[#8240](https://github.com/gastownhall/gascity/issues/8240), a chronic flaky test traced across four
+unrelated PRs before being reported upstream.
 
 #### 🧰 Technical stack
 
