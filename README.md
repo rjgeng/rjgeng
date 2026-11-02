@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**137 merged contributions across 4 repos:**
+**141 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#6950](https://github.com/gastownhall/gascity/pull/6950) — fix(pi): honor managed gc runtime in hooks
-- [#6949](https://github.com/gastownhall/gascity/pull/6949) — fix(jsonl): honor archive branch and remote locality
-- *…and 109 more — [see all 111](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#8440](https://github.com/gastownhall/gascity/pull/8440) — fix: dashboard rig-store-health PATH on Apple Silicon + correct [maintenance.dolt] docs (split from #8050)
+- [#8306](https://github.com/gastownhall/gascity/pull/8306) — fix(mcp): name the agent-local mcp/ dir when it conflicts with an implicit agent
+- *…and 112 more — [see all 114](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
@@ -28,8 +28,8 @@ multi-agent orchestration platform — each reviewed and approved by independent
 
 **[gastownhall/beads](https://github.com/gastownhall/beads)**
 - [#6574](https://github.com/gastownhall/beads/pull/6574) — fix(config): dotted keys round-trip through SetYamlConfigInDir/UnsetYamlConfig (bd-zj95, 1.3.1) — *includes Rongjun's preserved authored compatibility fix*
-- [#7103](https://github.com/gastownhall/beads/pull/7103) — fix(events): stop quiet followers on stdin EOF
-- *…and 17 more — [see all 19](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#7196](https://github.com/gastownhall/beads/pull/7196) — fix(uow): stop outage backoff from spinning at CPU rate after the outage window
+- *…and 18 more — [see all 20](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
