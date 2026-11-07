@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**143 merged contributions across 4 repos:**
+**145 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#8790](https://github.com/gastownhall/gascity/pull/8790) — fix(examples/bd/dolt): bash 3.2 cannot parse a case pattern closing ) inside $(...)
-- [#8440](https://github.com/gastownhall/gascity/pull/8440) — fix: dashboard rig-store-health PATH on Apple Silicon + correct [maintenance.dolt] docs (split from #8050)
-- *…and 113 more — [see all 115](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#8604](https://github.com/gastownhall/gascity/pull/8604) — fix(session): clear stale provider_kind/builtin_ancestor/resume_command on a provider switch
+- [#8920](https://github.com/gastownhall/gascity/pull/8920) — fix(deps): bump klauspost/compress to v1.20.2 for GO-2026-6865
+- *…and 115 more — [see all 117](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
