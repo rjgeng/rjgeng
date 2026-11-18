@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**151 merged contributions across 4 repos:**
+**156 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#6167](https://github.com/gastownhall/gascity/pull/6167) — fix(doctor): surface effective city suspension as a doctor check
-- [#4095](https://github.com/gastownhall/gascity/pull/4095) — fix(session): refresh reset_committed_at on every continuation-reset re-arm
-- *…and 118 more — [see all 120](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#8177](https://github.com/gastownhall/gascity/pull/8177) — fix(dispatch): retire drain-unit convoys when their drain control closes
+- [#8190](https://github.com/gastownhall/gascity/pull/8190) — fix(cmd/gc): a still-configured named session's close must not release identity-addressed work
+- *…and 122 more — [see all 124](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
@@ -28,8 +28,8 @@ multi-agent orchestration platform — each reviewed and approved by independent
 
 **[gastownhall/beads](https://github.com/gastownhall/beads)**
 - [#6574](https://github.com/gastownhall/beads/pull/6574) — fix(config): dotted keys round-trip through SetYamlConfigInDir/UnsetYamlConfig (bd-zj95, 1.3.1) — *includes Rongjun's preserved authored compatibility fix*
-- [#6596](https://github.com/gastownhall/beads/pull/6596) — fix(doctor): give CompareVersions semver-2.0 prerelease semantics
-- *…and 22 more — [see all 24](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#8364](https://github.com/gastownhall/beads/pull/8364) — fix(doctor): ignore and untrack machine-local state files in .beads/
+- *…and 23 more — [see all 25](https://github.com/search?q=repo%3Agastownhall%2Fbeads+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 <!-- AUTO-GENERATED:PR-LIST END -->
 
 Themes: concurrency races, operational guardrails, and failure-mode UX in long-running agent systems.
