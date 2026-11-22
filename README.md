@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**160 merged contributions across 4 repos:**
+**167 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#8384](https://github.com/gastownhall/gascity/pull/8384) — fix(dolt): stop passing the Dolt password as a gc-beads-bd.sh argv flag
-- [#8374](https://github.com/gastownhall/gascity/pull/8374) — fix(pricing): add claude-sonnet-5-5 default pricing entry
-- *…and 126 more — [see all 128](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#6053](https://github.com/gastownhall/gascity/pull/6053) — fix(core-pack): anchor worktree creation on $GC_DIR, not $(pwd)
+- [#6365](https://github.com/gastownhall/gascity/pull/6365) — fix(handoff): give PreCompact its own flat systemMessage shape under --hook-format codex
+- *…and 133 more — [see all 135](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
