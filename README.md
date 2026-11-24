@@ -11,15 +11,15 @@ contribute fixes upstream to open-source multi-agent orchestration systems.
      this block on a schedule via .github/workflows/update-pr-list.yml -->
 Contributions merged across the [gastownhall](https://github.com/gastownhall) ecosystem — an open-source
 multi-agent orchestration platform — each reviewed and approved by independent maintainers.
-**167 merged contributions across 4 repos:**
+**173 merged contributions across 4 repos:**
 
 **[gastownhall/gastown](https://github.com/gastownhall/gastown)**
 - [#4173](https://github.com/gastownhall/gastown/pull/4173) — fix(memories): tolerate non-string values in bd kv list
 
 **[gastownhall/gascity](https://github.com/gastownhall/gascity)**
-- [#6053](https://github.com/gastownhall/gascity/pull/6053) — fix(core-pack): anchor worktree creation on $GC_DIR, not $(pwd)
-- [#6365](https://github.com/gastownhall/gascity/pull/6365) — fix(handoff): give PreCompact its own flat systemMessage shape under --hook-format codex
-- *…and 133 more — [see all 135](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
+- [#8515](https://github.com/gastownhall/gascity/pull/8515) — fix(convergence): include closed wisps when deriving a loop's iteration count
+- [#8518](https://github.com/gastownhall/gascity/pull/8518) — fix(sling): close an auto-convoy left with zero members when linking fails
+- *…and 139 more — [see all 141](https://github.com/search?q=repo%3Agastownhall%2Fgascity+is%3Apr+is%3Amerged+author%3Arjgeng&type=pullrequests)*
 
 **[gastownhall/gascity-packs](https://github.com/gastownhall/gascity-packs)**
 - [#317](https://github.com/gastownhall/gascity-packs/pull/317) — test(gastown): pin worktree --sync for branches without upstream tracking
